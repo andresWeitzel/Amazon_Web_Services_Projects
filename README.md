@@ -20,13 +20,13 @@
  
 <div align="center">
   
- ### Microservicio para la gestión de usuarios (ML) implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, entre otros.
- 
+### Microservice for user management (ML) implemented with Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, among others.
+
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
   </a>
 
- ### [[Repositorio]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+ ### [[Repository]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
@@ -37,7 +37,7 @@
   </a>
  </div>
   
- ###  Stack implementado
+ ### Used Stack
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -66,13 +66,13 @@
  
 <div align="center">
   
- ### Api Rest para el manejo estadístico de producción y ventas de bioetanol implementado con Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda entre otros.
- 
+### Api Rest for the statistical management of bioethanol production and sales implemented with Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda among others.
+
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
   </a>
 
- ### [[Repositorio]](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+ ### [[Repository]](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
@@ -83,7 +83,7 @@
   </a>
  </div>
   
- ###  Stack implementado
+ ### Used Stack
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -110,13 +110,13 @@
  
 <div align="center">
   
- ### Sistema de respaldo para registros de plantas mineras implementado con SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Systems Manager Parameter Store, Serverless-Framework, Lambda, entre otros. 
- 
+### Backup system for mining plant records implemented with SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Systems Manager Parameter Store, Serverless-Framework, Lambda, among others.
+
   <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
   </a>
 
- ### [[Repositorio]](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+ ### [[Repository]](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
@@ -127,7 +127,7 @@
   </a>
  </div>
   
- ###  Stack implementado
+ ### Used Stack
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -155,13 +155,13 @@
   
 <div align="center">
   
- ### Modelo CRUD para el manejo de objetos con amazon s3 de aws implementado con Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, entre otros.
- 
+### CRUD model for managing objects with aws amazon s3 implemented with Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, among others.
+
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
   </a> 
 
-  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
+  ###  [[Repository]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
@@ -172,7 +172,7 @@
   </a>
  </div>
 
- ###  Stack implementado
+ ### Used Stack
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -198,14 +198,14 @@
 <!------CRUD Amazon DynamoDB AWS------>
   
 <div align="center">
-  
- ### Modelo CRUD para el manejo de objetos payments de mercadopago con DynamoDB de aws implementado con Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, Typescript, DynamoDB, aws-sdk-v3, entre otros.
- 
+
+### CRUD model for managing Mercadopago payment objects with aws DynamoDB implemented with Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, Typescript, DynamoDB, aws-sdk-v3, among others.
+    
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS/blob/master/doc/assets/CRUD_Amazon_DynamoDB_AWS.drawio.png" >
   </a> 
 
-  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W)
+  ###  [[Repository]](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
@@ -216,7 +216,7 @@
   </a>
  </div>
 
- ###  Stack implementado
+ ### Used Stack
 
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
@@ -245,13 +245,13 @@
   
 <div align="center">
 
- ### Comunicación entre lambda producer y lambda consumer utilizando el servicio SQS de AWS con colas FIFO.
- 
+### Communication between lambda producer and lambda consumer using the AWS SQS service with FIFO queues.
+
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/img/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
   </a> 
 
-  ###  [[Repositorio]](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
+  ###  [[Repository]](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
@@ -262,7 +262,7 @@
   </a>
  </div>
 
- ###  Stack implementado
+ ### Used Stack
 
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -290,13 +290,13 @@
   
 <div align="center">
 
- ### Modelo CRUD para la comunicación entre lambdas a través de amazon simple notification service (SNS).
- 
+### CRUD model for communication between lambdas through amazon simple notification service (SNS).
+    
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS/blob/master/doc/assets/sns-example.png" >
   </a> 
 
-  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
+  ###  [[Repository]](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
@@ -307,8 +307,8 @@
   </a>
  </div>
 
- ###  Stack implementado
-
+ ### Used Stack
+ 
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
   <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
