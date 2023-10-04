@@ -1,8 +1,8 @@
 <p align="right">
-    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
+    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
-   <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/translations/README.es.md" target="_blank">
+   <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
       <img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </p>
