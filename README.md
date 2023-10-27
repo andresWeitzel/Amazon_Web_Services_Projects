@@ -52,6 +52,13 @@ Central repository for projects that implement Amazon Web Services (AWS) technol
  
 * [Microservice for mercado libre users management](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-others-) [ Nodejs, Sequelize, Mysql , others ]
 * [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-others-) [ DynamoDB, Nodejs, Api Gateway , others ]
+* [Backup System for mining plant](#backup-system-for-mining-plant-records-implemented-with-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-others-) [ S3, SQS, SNS, others ]
+* [CRUD model for managing object with S3 service](#crud-model-for-managing-objects-with-aws-amazon-s3-implemented-with-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-others-) [ Nodejs, S3, Api Gateway, others ]
+* [CRUD model for managing Payments with MercadoPago](#crud-model-for-managing-mercadopago-payment-objects-with-aws-dynamodb-implemented-with-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-others-) [ DynamoDB, Typescript, Nodejs, others ]
+* [Communication between lambda producer and consumer with SQS service](#communication-between-lambda-producer-and-lambda-consumer-using-the-aws-sqs-service-with-fifo-queues-) [ SQS, Nodejs, Api Gateway, others ]
+* [CRUD model for communication between lambdas with SQS service](#crud-model-for-communication-between-lambdas-through-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, others ]
+
+
 
 <br>
 
