@@ -1,4 +1,8 @@
-c
+<div align = "center">
+<img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/aws-img.jpg" >
+</div>
+
+<br>
 
 <div align="right">
     <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/translations/README.es.md" target="_blank">
@@ -12,17 +16,57 @@ c
 
 <div align="center">
   
-## <img width="48" height="48"  src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
+## Amazon Web Services 
 
 </div>  
 
+
+
 <br>
+
+Central repository for projects that implement Amazon Web Services (AWS) technologies. The following technologies are implemented..
+
+ <br>
+
+ * Languages : Javascript, Typescript, others
+ * Frameworks : Serverless, others
+ * AWS Services: Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, others.
+ * Technologies : Nodejs, others
+ * ORM : Sequelize, others
+ * Databases : MySQL, DynamoDB, others
+ * Libraries : dotenv, cors, aws-sdk-v3, nodemon, others.
+ * Tools : vsc, postman , git, others
+   
+ <br>
+ 
+ <br>
+
+<!------Start Index----->
+
+## Index 📜
+
+<details>
+ <summary> See </summary>
+
+ <br>
+ 
+* [Microservice for mercado libre users management](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-others-) [ Nodejs, Sequelize, Mysql , others ]
+
+<br>
+
+</details>
+
+<!------Stop Index----->
+  
+ <br>
+ 
+ <br>
 
  <!------MICROSERVICIO USUARIOS ML AWS------>
  
 <div align="center">
   
-### Microservice for user management (ML) implemented with Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, among others.
+### Microservice for user management (ML) implemented with Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, others. [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
