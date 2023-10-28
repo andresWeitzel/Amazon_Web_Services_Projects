@@ -25,7 +25,7 @@
 
 Repositorio central para proyectos que implementan tecnologías de Amazon Web Services (AWS). Se implementan las siguientes tecnologías.
 
- <br>
+<br>
 
 * Lenguajes: Javascript, Typecript, otros.
 * Frameworks: Serverless, otros.
@@ -49,13 +49,13 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
  <br>
  
-* [Microservicio para gestión de usuarios de mercado libre](#microservicio-para-gestión-de-usuarios-ml-implementado-con-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon -rds-otros-) [Nodejs, Sequelize, Mysql, otros]
-* [Api Rest para la gestión estadística de la producción y venta de bioetanol](#api-rest-para-la-gestión-estadística-de-la-producción-y-venta-de-bioetanol-implementada-con-serverless-framework-api-gateway- nodejs-dynamodb-systems-manager-parameter-store-lambda-others-) [ DynamoDB, Nodejs, Api Gateway, otros]
-* [Sistema de respaldo para planta minera](#sistema-de-copia de seguridad-para-registros-de-planta-minera-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store- serverless-framework-lambda-otros-) [ S3, SQS, SNS, otros ]
-* [Modelo CRUD para administrar objetos con servicio S3](#crud-model-for-managing-objects-with-aws-amazon-s3-implemented-with-systems-manager-parameter-store-bucket-s3-api-gateway -serverless-framework-lambda-nodejs-aws-sdk-v3-others-) [ Nodejs, S3, Api Gateway, otros ]
-* [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-administrar-objetos-de-pago-mercadopago-con-aws-dynamodb-implementado-con-api-gateway-systems-manager-parameter-store-serverless- framework-lambda-typescript-dynamodb-aws-sdk-v3-others-) [ DynamoDB, Typescript, Nodejs, otros]
-* [Comunicación entre productor y consumidor lambda con servicio SQS](#comunicación-entre-productor-y-consumidor-lambda-usando-el-servicio-aws-sqs-con-fifo-colas-) [ SQS, Nodejs, Api Gateway, otros]
-* [Modelo CRUD para comunicación entre lambdas con servicio SQS](#crud-model-for-communication-between-lambdas-through-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, otros ]
+* [Microservicio para gestión de usuarios de mercado libre](#microservicio-para-gestión-de-usuarios-ml-implementado-con-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-otros-)[Nodejs, Sequelize, Mysql, otros]
+* [Api Rest para la gestión estadística de la producción y venta de bioetanol](#api-rest-para-la-gestión-estadística-de-la-producción-y-venta-de-bioetanol-implementada-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-others-)[ DynamoDB, Nodejs, Api Gateway, otros]
+* [Sistema de respaldo para planta minera](#sistema-de-copia-de-seguridad-para-registros-de-planta-minera-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-)[ S3, SQS, SNS, otros ]
+* [Modelo CRUD para administrar objetos con servicio S3](#crud-model-for-managing-objects-with-aws-amazon-s3-implemented-with-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-others-)[ Nodejs, S3, Api Gateway, otros ]
+* [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-administrar-objetos-de-pago-mercadopago-con-aws-dynamodb-implementado-con-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-others-)[ DynamoDB, Typescript, Nodejs, otros]
+* [Comunicación entre productor y consumidor lambda con servicio SQS](#comunicación-entre-productor-y-consumidor-lambda-usando-el-servicio-aws-sqs-con-fifo-colas-)[ SQS, Nodejs, Api Gateway, otros]
+* [Modelo CRUD para comunicación entre lambdas con servicio SQS](#crud-model-for-communication-between-lambdas-through-amazon-simple-notification-service-sns-)[ SNS, Nodejs, Api Gateway, otros ]
   
 <br>
 
