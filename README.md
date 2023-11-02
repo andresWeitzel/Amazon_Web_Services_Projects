@@ -24,7 +24,7 @@
 
 <br>
 
-Central repository for projects that implement Amazon Web Services (AWS) technologies. The following technologies are implemented..
+Central repository for projects that implement Amazon Web Services (AWS) technologies.
 
  <br>
 
