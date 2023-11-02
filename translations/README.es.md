@@ -23,7 +23,7 @@
 
 <br>
 
-Repositorio central para proyectos que implementan tecnologías de Amazon Web Services (AWS). Se implementan las siguientes tecnologías.
+Repositorio central para proyectos que implementan tecnologías de Amazon Web Services (AWS).
 
 <br>
 
