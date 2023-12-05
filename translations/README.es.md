@@ -34,7 +34,8 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * ORM: Sequelize, otros.
 * Bases de datos: MySQL, DynamoDB, otras.
 * Bibliotecas: dotenv, cors, aws-sdk-v3, nodemon, otras.
-* Herramientas: vsc, cartero, git, otras.
+* Herramientas: vsc, postman, git, otros.
+* Testing : Jest, Supertest, Mocha & Chai.
 
  <br>
  
