@@ -36,6 +36,7 @@ Central repository for projects that implement Amazon Web Services (AWS) technol
  * Databases : MySQL, DynamoDB, others.
  * Libraries : dotenv, cors, aws-sdk-v3, nodemon, others.
  * Tools : vsc, postman , git, others.
+ * Testing : Jest, Supertest, Mocha & Chai.
    
  <br>
  
