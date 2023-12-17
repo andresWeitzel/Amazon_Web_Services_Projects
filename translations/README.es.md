@@ -16,7 +16,7 @@
 
 <div align="center">
   
-##  Amazon Web Services 
+## <img width="48" height="48"  src="../doc/assets/gifs/aws.gif" /> Amazon Web Services
 
 </div>  
 
