@@ -1,4 +1,4 @@
-<div align = "center">
+![imagen](https://github.com/andresWeitzel/Amazon_Web_Services_Projects/assets/58787260/213fd44e-696a-48f9-b4c0-6257a8c2ff7a)![imagen](https://github.com/andresWeitzel/Amazon_Web_Services_Projects/assets/58787260/7582d549-f73c-46f8-8dbe-a621b5cd7a7e)<div align = "center">
 <img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/aws-img.jpg" >
 </div>
 
@@ -61,9 +61,10 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### AWS Serverless Tutorials
+* [Creating and deploying a lambda function with serverless in AWS ](#creating-and-deploying-a-lambda-function-with-serverless-in-aws-) [ Nodejs, Serverless, Lambda , others ]
 * [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda , others ]
 
-
+x
 <br>
 
 </details>
