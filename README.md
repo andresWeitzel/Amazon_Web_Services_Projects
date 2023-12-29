@@ -67,6 +67,12 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 <br>
 
+#### AWS Console Tutorials
+* [Create a lambda function with Nodejs from AWS](#creating-and-deploying-a-lambda-function-with-serverless-in-aws-) [ Nodejs, Serverless, Lambda , others ]
+* [Create a lambda function with Nodejs and Api Gateway from AWS](#creating-and-deploying-a-lambda-function-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda , others ]
+
+<br>
+
 </details>
 
 <!------Stop Index----->
@@ -482,9 +488,28 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <!------FIN  Lambda_Api_Gateway_Serverless_AWS_Example------>
 
 <br>
+ 
+<br>
+
+<br>
+ 
+<br>
+  
+<div align="center">
+    
+## AWS Console Tutorials
+
+</div>
+
+### Create a lambda function with Nodejs from AWS. [🔝](#index-)
+[See Tutorial](https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
 
 <br>
 
+### Create a lambda function with Nodejs and Api Gateway from AWS. [🔝](#index-)
+[See Tutorial](https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+
+<br>
 
 
   
