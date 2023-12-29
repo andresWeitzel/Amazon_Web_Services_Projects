@@ -65,7 +65,6 @@ Central repository for projects and tutorials that implement Amazon Web Services
 * [Creating and deploying a lambda function with serverless in AWS ](#creating-and-deploying-a-lambda-function-with-serverless-in-aws-) [ Nodejs, Serverless, Lambda , others ]
 * [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda , others ]
 
-x
 <br>
 
 </details>
