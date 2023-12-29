@@ -390,19 +390,57 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <!------FIN  CRUD_SNS_NodeJS_AWS------>
 
 
- <br>
+<br>
  
- <br>
+<br>
 
-  <br>
+<br>
  
- <br>
+<br>
   
 <div align="center">
     
 ## AWS Serverless Tutorials
 
 </div>
+
+
+<!------ Lambda_Serverless_AWS_Example------>
+  
+<div align="center">
+
+### Creating and deploying a lambda function with serverless in AWS. [🔝](#index-)
+    
+  <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
+  <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
+  </a> 
+
+  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ### Used Stack
+ 
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+</div>
+
+<!------FIN  Lambda_Serverless_AWS_Example------>
+
+<br>
 
 <br>
 
@@ -438,9 +476,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
-  </div>
-  
+</div>
+
 <!------FIN  Lambda_Api_Gateway_Serverless_AWS_Example------>
+
+<br>
+
+<br>
+
 
 
   
