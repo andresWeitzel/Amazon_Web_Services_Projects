@@ -1,4 +1,5 @@
-![imagen](https://github.com/andresWeitzel/Amazon_Web_Services_Projects/assets/58787260/213fd44e-696a-48f9-b4c0-6257a8c2ff7a)![imagen](https://github.com/andresWeitzel/Amazon_Web_Services_Projects/assets/58787260/7582d549-f73c-46f8-8dbe-a621b5cd7a7e)<div align = "center">
+
+<div align = "center">
 <img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/aws-img.jpg" >
 </div>
 
