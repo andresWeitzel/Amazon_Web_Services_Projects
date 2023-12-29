@@ -68,8 +68,8 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### AWS Console Tutorials
-* [Create a lambda function with Nodejs from AWS](#creating-and-deploying-a-lambda-function-with-serverless-in-aws-) [ Nodejs, Serverless, Lambda , others ]
-* [Create a lambda function with Nodejs and Api Gateway from AWS](#creating-and-deploying-a-lambda-function-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda , others ]
+* [Create a lambda function with Nodejs from AWS](#create-a-lambda-function-with-nodejs-from-aws-) [ Nodejs, Serverless, Lambda , others ]
+* [Create a lambda function with Nodejs and Api Gateway from AWS](#create-a-lambda-function-with-nodejs-and-api-gateway-from-aws-) [ Api Gateway, Serverless, Lambda , others ]
 
 <br>
 
