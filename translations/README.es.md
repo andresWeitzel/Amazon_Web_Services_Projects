@@ -49,7 +49,8 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <summary> Ver </summary>
 
  <br>
- 
+
+#### Projects  
 * [ Microservicio para gestión de usuarios de mercado libre ](#microservicio-para-la-gestión-de-usuarios-ml-implementado-con-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-otros-) [ Nodejs, Sequelize, Mysql, otros ]
 * [ Api Rest para la gestión estadística de la producción y venta de bioetanol. ](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) [ DynamoDB, Nodejs, Api Gateway, otros. ]
 * [ Sistema de respaldo para planta minera. ](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ S3, SQS, SNS, otros. ]
@@ -57,6 +58,19 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [ Modelo CRUD para gestionar Pagos con MercadoPago. ](#modelo-crud-para-el-manejo-de-objetos-payments-de-mercadopago-con-dynamodb-de-aws-implementado-con-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-otros-)[ DynamoDB, Typescript, Nodejs, otros. ]
 * [ Comunicación entre productor y consumidor lambda con servicio SQS. ](#comunicación-entre-lambda-producer-y-lambda-consumer-utilizando-el-servicio-sqs-de-aws-con-colas-fifo-) [ SQS, Nodejs, Api Gateway, otros. ]
 * [ Modelo CRUD para comunicación entre lambdas con servicio SQS. ](#modelo-crud-para-la-comunicación-entre-lambdas-a-través-de-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, otros. ]
+
+<br>
+
+#### Tutoriales sserverless de AWS
+* [ Crear e implementar una función lambda con serverless en AWS] (#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) [ Nodejs, Serverless, Lambda, otros]
+* [ Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS](#crear-e-implementar-una-función-lambda-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda, otros]
+
+<br>
+
+#### Tutoriales de la consola de AWS
+* [ Crear una función lambda con Nodejs de AWS ](#create-a-lambda-function-with-nodejs-from-aws-) [ Nodejs, Serverless, Lambda, otros]
+* [ Crear una función lambda con Nodejs y Api Gateway de AWS ](#create-a-lambda-function-with-nodejs-and-api-gateway-from-aws-) [ Api Gateway, Serverless, Lambda, otros]
+
   
 <br>
 
@@ -374,13 +388,118 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   </div>
   
 <!------FIN  CRUD_SNS_NodeJS_AWS------>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<div align="center">
+    
+## AWS Serverless Tutorial
 
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+</div>
+
+<!------ Lambda_Serverless_AWS_Example------>
+  
+<div align="center">
+
+### Creating and deploying a lambda function with serverless in AWS. [🔝](#index-)
+    
+  <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
+  <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
+  </a> 
+
+  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ### Used Stack
+ 
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+</div>
+
+<!------FIN  Lambda_Serverless_AWS_Example------>
+
+<br>
+ 
+<br>
+
+
+<!------ Lambda_Api_Gateway_Serverless_AWS_Example------>
+  
+<div align="center">
+
+### Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS. [🔝](#index-)
+    
+  <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
+  <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
+  </a> 
+
+  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ### Used Stack
+ 
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+</div>
+
+<!------FIN  Lambda_Api_Gateway_Serverless_AWS_Example------>
 
 
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+  
+<div align="center">
+    
+## AWS Console Tutorials
+
+</div>
+
+### Create a lambda function with Nodejs from AWS. [🔝](#index-)
+[See Tutorial](https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+
+<br>
+
+### Create a lambda function with Nodejs and Api Gateway from AWS. [🔝](#index-)
+[See Tutorial](https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+
+<br>
+
 
   
