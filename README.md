@@ -403,6 +403,9 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
   
 <div align="center">
     
@@ -487,12 +490,17 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <!------FIN  Lambda_Api_Gateway_Serverless_AWS_Example------>
 
 
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+  
   
 <div align="center">
     
