@@ -62,8 +62,8 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### Tutoriales sserverless de AWS
-* [ Crear e implementar una función lambda con serverless en AWS] (#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) [ Nodejs, Serverless, Lambda, otros]
-* [ Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS](#crear-e-implementar-una-función-lambda-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda, otros]
+* [ Crear e implementar una función lambda con serverless en AWS ](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) [ Nodejs, Serverless, Lambda, otros]
+* [ Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ](#crear-e-implementar-una-función-lambda-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda, otros]
 
 <br>
 
@@ -388,6 +388,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   </div>
   
 <!------FIN  CRUD_SNS_NodeJS_AWS------>
+
 <br>
 <br>
 <br>
@@ -405,13 +406,13 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Creating and deploying a lambda function with serverless in AWS. [🔝](#index-)
+### Crear e implementar una función lambda con serverless en AWS. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
@@ -422,7 +423,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   </a>
  </div>
 
- ### Used Stack
+ ### Stack implementado
  
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -445,13 +446,13 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS. [🔝](#index-)
+### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
@@ -462,7 +463,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   </a>
  </div>
 
- ### Used Stack
+ ### Stack implementado
  
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -478,12 +479,17 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <!------FIN  Lambda_Api_Gateway_Serverless_AWS_Example------>
 
 
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+  
   
 <div align="center">
     
@@ -492,12 +498,12 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 </div>
 
 ### Create a lambda function with Nodejs from AWS. [🔝](#index-)
-[See Tutorial](https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+[Ver Tutorial](https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
 
 <br>
 
 ### Create a lambda function with Nodejs and Api Gateway from AWS. [🔝](#index-)
-[See Tutorial](https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+[Ver Tutorial](https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
 
 <br>
 
