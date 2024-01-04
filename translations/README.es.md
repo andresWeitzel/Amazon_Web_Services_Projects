@@ -27,15 +27,15 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 <br>
 
-* Lenguajes: Javascript, Typecript, otros.
+* Lenguajes: Javascript, Typescript, otros.
 * Frameworks: Serverless, otros.
 * Servicios AWS: Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, otros.
 * Tecnologías: Nodejs, otras.
-* ORM: Sequelize, otros.
+* ORM: Sequelize, TypeORM, otros.
 * Bases de datos: MySQL, DynamoDB, otras.
 * Bibliotecas: dotenv, cors, aws-sdk-v3, nodemon, otras.
-* Herramientas: vsc, postman, git, otros.
-* Testing : Jest, Supertest, Mocha & Chai.
+* Herramientas: Vsc, Postman, Git, otros.
+* Testing : Jest, Supertest, Mocha & Chai, otros.
 
  <br>
  
