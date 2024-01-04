@@ -62,8 +62,8 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### Tutoriales sserverless de AWS
-* [ Crear e implementar una función lambda con serverless en AWS ](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) [ Nodejs, Serverless, Lambda, otros]
-* [ Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ](#crear-e-implementar-una-función-lambda-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda, otros]
+* [ Crear e implementar una función lambda con serverless en AWS. ](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) [ Nodejs, Serverless, Lambda, otros]
+* [ Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS. ](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) [ Api Gateway, Serverless, Lambda, otros]
 
 <br>
 
