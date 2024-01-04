@@ -57,7 +57,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [ Modelo CRUD para administrar objetos con servicio S3. ](#modelo-crud-para-el-manejo-de-objetos-con-amazon-s3-de-aws-implementado-con-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-otros-)[ Nodejs, S3, Api Gateway, otros. ]
 * [ Modelo CRUD para gestionar Pagos con MercadoPago. ](#modelo-crud-para-el-manejo-de-objetos-payments-de-mercadopago-con-dynamodb-de-aws-implementado-con-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-otros-)[ DynamoDB, Typescript, Nodejs, otros. ]
 * [ Comunicación entre productor y consumidor lambda con servicio SQS. ](#comunicación-entre-lambda-producer-y-lambda-consumer-utilizando-el-servicio-sqs-de-aws-con-colas-fifo-) [ SQS, Nodejs, Api Gateway, otros. ]
-* [ Modelo CRUD para comunicación entre lambdas con servicio SQS. ](#modelo-crud-para-la-comunicación-entre-lambdas-a-través-de-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, otros. ]
+* [ Modelo CRUD para comunicación entre lambdas con servicio SNS. ](#modelo-crud-para-la-comunicación-entre-lambdas-a-través-de-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, otros. ]
 
 <br>
 
