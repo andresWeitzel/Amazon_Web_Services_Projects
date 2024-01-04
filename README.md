@@ -31,7 +31,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  * Frameworks : Serverless, others.
  * AWS Services : Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, others.
  * Technologies : Nodejs, others.
- * ORM : Sequelize, others.
+ * ORM : Sequelize, TypeORM, others.
  * Databases : MySQL, DynamoDB, others.
  * Libraries : dotenv, cors, aws-sdk-v3, nodemon, others.
  * Tools : vsc, postman , git, others.
