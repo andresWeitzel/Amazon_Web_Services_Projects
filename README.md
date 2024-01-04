@@ -34,7 +34,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  * ORM : Sequelize, TypeORM, others.
  * Databases : MySQL, DynamoDB, others.
  * Libraries : dotenv, cors, aws-sdk-v3, nodemon, others.
- * Tools : vsc, postman , git, others.
+ * Tools : Vsc, Postman, Git, otrers.
  * Testing : Jest, Supertest, Mocha & Chai.
    
  <br>
