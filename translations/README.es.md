@@ -68,8 +68,8 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### Tutoriales de la consola de AWS
-* [ Crear una función lambda con Nodejs de AWS. ](#create-a-lambda-function-with-nodejs-from-aws-) [ Nodejs, Serverless, Lambda, otros]
-* [ Crear una función lambda con Nodejs y Api Gateway de AWS. ](#create-a-lambda-function-with-nodejs-and-api-gateway-from-aws-) [ Api Gateway, Serverless, Lambda, otros]
+* [ Crear una función lambda con Nodejs de AWS. ](#crear-una-función-lambda-con-nodejs-de-aws-) [ Nodejs, Serverless, Lambda, otros]
+* [ Crear una función lambda con Nodejs y Api Gateway de AWS. ](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) [ Api Gateway, Serverless, Lambda, otros]
 
   
 <br>
