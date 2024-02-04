@@ -56,7 +56,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [ Sistema de respaldo para planta minera. ](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ S3, SQS, SNS, otros. ]
 * [ Modelo CRUD para administrar objetos con servicio S3. ](#modelo-crud-para-el-manejo-de-objetos-con-amazon-s3-de-aws-implementado-con-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-otros-)[ Nodejs, S3, Api Gateway, otros. ]
 * [ Modelo CRUD para gestionar Pagos con MercadoPago. ](#modelo-crud-para-el-manejo-de-objetos-payments-de-mercadopago-con-dynamodb-de-aws-implementado-con-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-otros-)[ DynamoDB, Typescript, Nodejs, otros. ]
-* [Microservicio OpenWeather Nodejs Jest](#) [ NodeJS, Jest, Serverless-Framework, etc. ]
+* [Microservicio OpenWeather Nodejs Jest](#microservicio-openweather-utilizando-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * [ Comunicación entre productor y consumidor lambda con servicio SQS. ](#comunicación-entre-lambda-producer-y-lambda-consumer-utilizando-el-servicio-sqs-de-aws-con-colas-fifo-) [ SQS, Nodejs, Api Gateway, otros. ]
 * [ Modelo CRUD para comunicación entre lambdas con servicio SNS. ](#modelo-crud-para-la-comunicación-entre-lambdas-a-través-de-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, otros. ]
 
