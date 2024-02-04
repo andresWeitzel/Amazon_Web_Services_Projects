@@ -56,6 +56,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [ Sistema de respaldo para planta minera. ](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ S3, SQS, SNS, otros. ]
 * [ Modelo CRUD para administrar objetos con servicio S3. ](#modelo-crud-para-el-manejo-de-objetos-con-amazon-s3-de-aws-implementado-con-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-otros-)[ Nodejs, S3, Api Gateway, otros. ]
 * [ Modelo CRUD para gestionar Pagos con MercadoPago. ](#modelo-crud-para-el-manejo-de-objetos-payments-de-mercadopago-con-dynamodb-de-aws-implementado-con-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-otros-)[ DynamoDB, Typescript, Nodejs, otros. ]
+* [Microservicio OpenWeather Nodejs Jest](#) [ NodeJS, Jest, Serverless-Framework, etc. ]
 * [ Comunicación entre productor y consumidor lambda con servicio SQS. ](#comunicación-entre-lambda-producer-y-lambda-consumer-utilizando-el-servicio-sqs-de-aws-con-colas-fifo-) [ SQS, Nodejs, Api Gateway, otros. ]
 * [ Modelo CRUD para comunicación entre lambdas con servicio SNS. ](#modelo-crud-para-la-comunicación-entre-lambdas-a-través-de-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, otros. ]
 
@@ -297,6 +298,52 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  </div>
   
 <!------FIN CRUD Amazon DynamoDB AWS------>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+<!------Microservice OpenWeather Nodejs Jest ------>
+  
+<div align="center">
+
+### Microservicio OpenWeather utilizando Nodejs, Jest, Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, otros. [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
+  </a> 
+
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [|]() [[PlayList]]()
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ###  Stack implementado
+
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+ </div>
+  
+<!------FIN Microservice OpenWeather Nodejs Jest ------>
 
 
 <br>
