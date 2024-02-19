@@ -1,16 +1,16 @@
 
 <div align = "center">
-<img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/aws-img.jpg" >
+<img src="./doc/assets/img/aws-img.jpg" >
 </div>
 
 <br>
 
 <div align="right">
-    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/translations/README.es.md" target="_blank">
-      <img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+    <a href="./translations/README.es.md" target="_blank">
+      <img src="./doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
-      <img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+      <img src="./doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </div>
 
@@ -114,7 +114,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
   
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
