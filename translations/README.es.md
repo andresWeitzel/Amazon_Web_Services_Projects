@@ -1,5 +1,6 @@
+
 <div align = "center">
-<img src="https://github.com/andresWeitzel/Amazon_Web_Services_Projects/blob/master/doc/assets/img/aws-img.jpg" >
+<img src="../doc/assets/img/aws-img.jpg" >
 </div>
 
 <br>
