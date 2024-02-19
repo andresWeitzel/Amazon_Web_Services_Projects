@@ -104,10 +104,10 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
   
@@ -150,22 +150,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
   
  ### Used Stack
   
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+  <img width="35" height="35" src="./doc/assets/icons/front/typescript.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/DynamoDB.png" />
   <img width="40" height="35" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="43" height="40" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" /> 
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -194,22 +194,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
   
  ### Used Stack
   
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+  <img width="35" height="35" src="./doc/assets/icons/front/typescript.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/DynamoDB.png" />
   <img width="40" height="35" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="43" height="40" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" /> 
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -239,22 +239,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
   
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/s3.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" /> 
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -283,22 +283,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
 
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+  <img width="35" height="35" src="./doc/assets/icons/front/typescript.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/DynamoDB.png" />
   <img width="40" height="35" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="43" height="40" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -328,22 +328,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
 
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -374,22 +374,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
 
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -419,22 +419,22 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
  
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -473,17 +473,17 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
  
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
@@ -513,17 +513,17 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
 
  ### Used Stack
  
  <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
   <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
