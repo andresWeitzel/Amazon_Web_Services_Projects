@@ -343,7 +343,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -389,7 +389,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -434,7 +434,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
