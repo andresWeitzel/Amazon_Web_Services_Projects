@@ -104,6 +104,8 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 <br>
 
+ ### Details
+
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
     <img width="52" height="52" src="./doc/assets/gifs/web-code/code-blue.gif" />
