@@ -1,16 +1,16 @@
 
 <div align = "center">
-<img src="../doc/assets/img/aws-img.jpg" >
+<img src="../doc/assets/img/aws.jpg" >
 </div>
 
 <br>
 
 <div align="right">
     <a href="README.es.md" target="_blank">
-      <img src="../doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+      <img src="../doc/assets/icons/translation/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
-      <img src="../doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+      <img src="../doc/assets/icons/translation/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </div>
 
@@ -52,7 +52,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <br>
 
 #### Projects  
-* [ Microservicio para gestión de usuarios de mercado libre ](#microservicio-para-la-gestión-de-usuarios-ml-implementado-con-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-otros-) [ Nodejs, Sequelize, Mysql, otros ]
+* [ Microservicio para gestión de usuarios de mercado libre ](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-) [ Nodejs, Sequelize, Mysql, otros ]
 * [ Api Rest para la gestión estadística de la producción y venta de bioetanol. ](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) [ DynamoDB, Nodejs, Api Gateway, otros. ]
 * [ Sistema de respaldo para planta minera. ](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) [ S3, SQS, SNS, otros. ]
 * [ Modelo CRUD para administrar objetos con servicio S3. ](#modelo-crud-para-el-manejo-de-objetos-con-amazon-s3-de-aws-implementado-con-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-otros-)[ Nodejs, S3, Api Gateway, otros. ]
@@ -88,37 +88,25 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Microservicio para la gestión de usuarios (ML) implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, otros. [🔝](#índice-)
+ ### Microservicio para la gestión de usuarios de Mercado Libre. [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
   </a>
 
- ### [[Repositorio]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
+  <br>
+
+ ### Detalles
+
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" src="../doc/assets/icons/redes/github.gif" />
+    <img width="52" height="54" src="./.doc/assets/gifs/web-code/code-blue.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="../doc/assets/icons/redes/youtubeLogo.gif" />
+    <img width="60" height="60" src="../doc/assets/gifs/social-network/youtube.gif" />
   </a>
  </div>
-  
- ###  Stack implementado
-  
- <div style="display: inline-block;">
-  <img width="35" height="35" src="../doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="../doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="../doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="../doc/assets/icons/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-  <img width="35" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/rds.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div> 
-  </div>
+
 <!------FIN MICROSERVICIO USUARIOS ML AWS------>
 
   
