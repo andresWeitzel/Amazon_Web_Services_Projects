@@ -103,14 +103,15 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
  ### Details
 
- <div style="display: inline-block;"> 
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="46" height="48" alt="code" src="./doc/assets/gifs/web-code/code-blue.gif" />
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/web-code/code-blue.gif" style="display: inline-block;" />
   </a>
-   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" />
+  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>
+
   
 
 <!------FIN MICROSERVICIO USUARIOS ML AWS------>
