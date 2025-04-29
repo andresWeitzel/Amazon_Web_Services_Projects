@@ -100,11 +100,12 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
   </a>
 
-</br>
+<br>
+
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="64" height="64" src="./doc/assets/gifs/web-code/file-folder.gif" />
+    <img width="62" height="62" src="./doc/assets/gifs/web-code/file-folder.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
     <img width="60" height="60" src="./doc/assets/gifs/social-network/youtube.gif" />
