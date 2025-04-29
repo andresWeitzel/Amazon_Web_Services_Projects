@@ -113,20 +113,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   </a>
  </div>
   
- ### Used Stack
-  
- <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/sequelize.png" />
-  <img width="35" height="42" src="./doc/assets/icons/aws/rds.png" />
-  <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
-  <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
- </div> 
-  </div>
+
 <!------FIN MICROSERVICIO USUARIOS ML AWS------>
 
   
