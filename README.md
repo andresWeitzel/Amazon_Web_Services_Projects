@@ -51,7 +51,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  <br>
  
 #### Projects 
-* [Microservice for mercado libre users management](#microservice-for-user-management-ml-implemented-with-systems-manager-parameter-store-api-gateway-serverless-framework-lambda-nodejs-sequelize-mysql-amazon-rds-others-) [ Nodejs, Sequelize, Mysql , others ]
+* [Microservice for mercado libre users management](#microservice-for-mercado-libre-user-management-) [ Nodejs, Sequelize, Mysql , others ]
 * [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-others-) [ DynamoDB, Nodejs, Api Gateway , others ]
 * [Backup System for mining plant](#backup-system-for-mining-plant-records-implemented-with-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-others-) [ S3, SQS, SNS, others ]
 * [CRUD model for managing object with S3 service](#crud-model-for-managing-objects-with-aws-amazon-s3-implemented-with-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-others-) [ Nodejs, S3, Api Gateway, others ]
@@ -94,7 +94,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Microservice for user management (ML) implemented with Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, others. [🔝](#index-)
+### Microservice for mercado libre users management. [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -106,7 +106,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="56" height="56" src="./doc/assets/gifs/web-code/code-gray.gif" />
+    <img width="54" height="54" src="./doc/assets/gifs/web-code/code-gray.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
     <img width="60" height="60" src="./doc/assets/gifs/social-network/youtube.gif" />
