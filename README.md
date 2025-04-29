@@ -108,7 +108,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="52" height="54" alt="code" src="./doc/assets/gifs/web-code/code-blue.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="54" height="56" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" />
+    <img width="50" height="52" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" />
   </a>
  </div>
   
