@@ -102,8 +102,6 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 <br>
 
-<br>
-
  ### Details
 
  <div style="display: inline-block;"> 
