@@ -17,7 +17,7 @@
 
 <div align="center">
   
-## <img width="48" height="48"  src="./doc/assets/gifs/aws.gif" /> Amazon Web Services
+## <img width="48" height="48"  src="./doc/assets/gifs/aws/aws.gif" /> Amazon Web Services
 
 </div>  
 
@@ -103,7 +103,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/gifs/web-code/code-blue.gif" />
+    <img width="60" height="60" src="./doc/assets/gifs/web-code/code-gray.gif" />
   </a>
    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
     <img width="60" height="60" src="./doc/assets/gifs/social-network/youtube.gif" />
