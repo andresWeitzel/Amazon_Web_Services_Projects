@@ -1,16 +1,16 @@
 
 <div align = "center">
-<img src="./doc/assets/img/aws-img.jpg" >
+<img src="./doc/assets/img/aws.jpg" >
 </div>
 
 <br>
 
 <div align="right">
     <a href="./translations/README.es.md" target="_blank">
-      <img src="./doc/assets/img/arg-flag.jpg" width="10%" height="10%" />
+      <img src="./doc/assets/icons/translation/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
-      <img src="./doc/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+      <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </div>
 
