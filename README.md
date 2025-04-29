@@ -78,9 +78,8 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 <!------Stop Index----->
   
- <br>
- 
- <br>
+
+<br>
   
 <div align="center">
     
