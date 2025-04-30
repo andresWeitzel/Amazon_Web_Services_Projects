@@ -83,7 +83,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
     
- ## Projects 
+ ## Projects :open_file_folder:
 
 </div>
 
