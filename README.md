@@ -50,7 +50,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
  <br>
  
-#### Projects 
+#### Projects 📒
 * [Microservice for mercado libre users management](#microservice-for-mercado-libre-user-management-) [ Nodejs, Sequelize, Mysql , others ]
 * [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-others-) [ DynamoDB, Nodejs, Api Gateway , others ]
 * [Backup System for mining plant](#backup-system-for-mining-plant-records-implemented-with-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-others-) [ S3, SQS, SNS, others ]
