@@ -1,16 +1,16 @@
 
 <div align = "center">
-<img src="./doc/assets/img/aws.jpg" >
+  <img src="./doc/assets/img/aws.jpg" >
 </div>
 
 <br>
 
 <div align="right">
     <a href="./translations/README.es.md" target="_blank">
-      <img src="./doc/assets/icons/translation/arg-flag.jpg" width="10%" height="10%" />
+      <img src="./doc/assets/icons/translation/arg-flag.jpg" width="65" height="40" />
   </a> 
    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
-      <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="10%" height="10%" />
+      <img src="./doc/assets/icons/translation/eeuu-flag.jpg" width="65" height="40" />
   </a> 
 </div>
 
@@ -49,28 +49,101 @@ Central repository for projects and tutorials that implement Amazon Web Services
  <summary> See </summary>
 
  <br>
+
  
-#### Projects :open_file_folder:
-* [Microservice for mercado libre users management](#microservice-for-mercado-libre-user-management-) [ Nodejs, Sequelize, Mysql , others ]
-* [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-implemented-with-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-others-) [ DynamoDB, Nodejs, Api Gateway , others ]
-* [Backup System for mining plant](#backup-system-for-mining-plant-records-implemented-with-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-others-) [ S3, SQS, SNS, others ]
-* [CRUD model for managing object with S3 service](#crud-model-for-managing-objects-with-aws-amazon-s3-implemented-with-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-others-) [ Nodejs, S3, Api Gateway, others ]
-* [CRUD model for managing Payments with MercadoPago](#crud-model-for-managing-mercadopago-payment-objects-with-aws-dynamodb-implemented-with-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-typescript-dynamodb-aws-sdk-v3-others-) [ DynamoDB, Typescript, Nodejs, others ]
-* [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-api-gateway-systems-manager-parameter-store-serverless-framework-lambda-others-) [ NodeJS, Jest, Serverless-Framework, etc. ]
-* [Communication between lambda producer and consumer with SQS service](#communication-between-lambda-producer-and-lambda-consumer-using-the-aws-sqs-service-with-fifo-queues-) [ SQS, Nodejs, Api Gateway, others ]
-* [CRUD model for communication between lambdas with SNS service](#crud-model-for-communication-between-lambdas-through-amazon-simple-notification-service-sns-) [ SNS, Nodejs, Api Gateway, others ]
+ 
+#### 🗂️ Projects
+* [Microservice for mercado libre users management](#microservice-for-mercado-libre-user-management-) 
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/sequelize.png" width="20" height="20"/>
+  </div>
+* [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/DynamoDB.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [Backup System for mining plant](#backup-system-for-mining-plant-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/s3.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/sqs.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/DynamoDB.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/front/typescript.png" width="20" height="20"/>
+  </div>
+* [CRUD model for managing object with S3 service](#crud-model-for-managing-objects-with-aws-amazon-s3-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/s3.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [CRUD model for managing Payments with MercadoPago](#crud-model-for-managing-mercadopago-payment-objects-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/DynamoDB.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/front/typescript.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [Communication between lambda producer and consumer with SQS service](#communication-between-lambda-producer-and-consumer-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/sqs.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [CRUD model for communication between lambdas with SNS service](#crud-model-for-communication-between-lambdas-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
 
 <br>
 
-#### AWS Serverless Tutorials
-* [Creating and deploying a lambda function with serverless in AWS ](#creating-and-deploying-a-lambda-function-with-serverless-in-aws-) [ Nodejs, Serverless, Lambda , others ]
-* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-api-gateway-and-nodejs-in-aws-) [ Api Gateway, Serverless, Lambda , others ]
+#### 📚 AWS Serverless Tutorials
+* [Creating and deploying a lambda function with serverless in AWS](#creating-and-deploying-a-lambda-function-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
 
 <br>
 
-#### AWS Console Tutorials
-* [Create a lambda function with Nodejs from AWS](#create-a-lambda-function-with-nodejs-from-aws-) [ Nodejs, Serverless, Lambda , others ]
-* [Create a lambda function with Nodejs and Api Gateway from AWS](#create-a-lambda-function-with-nodejs-and-api-gateway-from-aws-) [ Api Gateway, Serverless, Lambda , others ]
+#### 💻 AWS Console Tutorials
+* [Create a lambda function with Nodejs from AWS](#create-a-lambda-function-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
+* [Create a lambda function with Nodejs and Api Gateway from AWS](#create-a-lambda-function-with-api-)
+  <div align="left">
+    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
+    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+  </div>
 
 <br>
 
@@ -83,7 +156,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
     
- ## Projects :open_file_folder:
+ ## 🗂️ Projects
 
 </div>
 
@@ -274,7 +347,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
     <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
     <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
   </a>
  </div>
