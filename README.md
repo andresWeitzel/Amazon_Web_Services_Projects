@@ -55,64 +55,64 @@ Central repository for projects and tutorials that implement Amazon Web Services
 #### 🗂️ Projects
 * [Microservice for mercado libre users management](#microservice-for-mercado-libre-user-management-) 
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/sequelize.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/parameter-store.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/sequelize.png" width="20" height="20"/>
   </div>
 * [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/DynamoDB.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/dynamo.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/parameter-store.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [Backup System for mining plant](#backup-system-for-mining-plant-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/s3.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/sqs.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/DynamoDB.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/front/typescript.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/s3.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/sqs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/dynamo.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" width="20" height="20"/>
   </div>
 * [CRUD model for managing object with S3 service](#crud-model-for-managing-objects-with-aws-amazon-s3-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/s3.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/s3.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/parameter-store.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [CRUD model for managing Payments with MercadoPago](#crud-model-for-managing-mercadopago-payment-objects-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/DynamoDB.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/front/typescript.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/dynamo.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/parameterStore.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/parameter-store.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [Communication between lambda producer and consumer with SQS service](#communication-between-lambda-producer-and-consumer-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/sqs.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/sqs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [CRUD model for communication between lambdas with SNS service](#crud-model-for-communication-between-lambdas-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 
 <br>
@@ -120,14 +120,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 #### 📚 AWS Serverless Tutorials
 * [Creating and deploying a lambda function with serverless in AWS](#creating-and-deploying-a-lambda-function-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 
 <br>
@@ -135,14 +135,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 #### 💻 AWS Console Tutorials
 * [Create a lambda function with Nodejs from AWS](#create-a-lambda-function-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 * [Create a lambda function with Nodejs and Api Gateway from AWS](#create-a-lambda-function-with-api-)
   <div align="left">
-    <img src="./doc/assets/icons/aws/lambda.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/aws/api-gateway.png" width="20" height="20"/>
-    <img src="./doc/assets/icons/back/nodeJs.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/lambda.png" width="20" height="20"/>
+    <img src="doc/assets/icons/aws/png/api-gateway.png" width="20" height="20"/>
+    <img src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" width="20" height="20"/>
   </div>
 
 <br>
@@ -311,12 +311,12 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
   
  <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="48" height="46" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/s3.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/s3.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" /> 
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -357,10 +357,10 @@ Central repository for projects and tutorials that implement Amazon Web Services
  <div style="display: inline-block;">
   <img width="35" height="35" src="./doc/assets/icons/front/typescript.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/DynamoDB.png" />
-  <img width="40" height="35" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="43" height="40" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/dynamo.png" />
+  <img width="40" height="35" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="43" height="40" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -400,12 +400,12 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
 
  <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="48" height="46" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -446,12 +446,12 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
 
  <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="48" height="46" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -491,12 +491,12 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
  
  <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="48" height="46" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/sqs.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/sqs.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
  </div>
@@ -545,9 +545,9 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
  
  <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
@@ -585,10 +585,10 @@ Central repository for projects and tutorials that implement Amazon Web Services
  ### Used Stack
  
  <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="./doc/assets/icons/aws/api-gateway.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/parameterStore.png" />
-  <img width="40" height="40" src="./doc/assets/icons/back/nodeJs.png" />
+  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="48" height="46" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="40" height="40" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="40" height="40" src="./doc/assets/icons/front/vsc.png" />
   <img width="40" height="40" src="./doc/assets/icons/back/postman.png" />
   <img width="44" height="40" src="./doc/assets/icons/back/git.png" />
