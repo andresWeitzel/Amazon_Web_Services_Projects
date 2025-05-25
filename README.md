@@ -226,15 +226,15 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
   <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
   <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
   <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/vsc.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-
+  <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
+  <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
+  
 </div>
 
 <br>
