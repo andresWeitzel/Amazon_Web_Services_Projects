@@ -1,4 +1,3 @@
-
 <div align = "center">
 <img src="../doc/assets/img/aws.jpg" >
 </div>
@@ -59,6 +58,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
 * [Api Rest para la gestión estadística de la producción y venta de bioetanol](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
   <div align="left">
@@ -166,16 +166,18 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   </a>
 
   <div align="right">
+
   <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
   <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
   <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
   <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="30" height="30" src="../doc/assets/icons/devops/png/vsc.png" />
+  <img width="23" height="23" src="../doc/assets/icons/devops/png/docker.png" />
 </div>
 
 <br>
@@ -186,7 +188,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
     <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
     <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
 </div>
@@ -258,30 +260,32 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
   </a>
 
- ### [[Repositorio]](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" src="../doc/assets/img/redes/github.gif" />
+<div align="right">
+  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+</div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="../doc/assets/icons/redes/youtubeLogo.gif" />
+  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>
   
- ###  Stack implementado
-  
- <div style="display: inline-block;">
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
-  <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
-  <img width="43" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-  <img width="35" height="35" src="../doc/assets/icons/aws/lambda.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" /> 
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
- </div>
 <!------FIN BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
 
   
@@ -303,30 +307,30 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
   </a> 
 
-  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
-    <img width="60" height="60" src="../doc/assets/img/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
-    <img width="60" height="60" src="../doc/assets/icons/redes/youtubeLogo.gif" />
-  </a>
- </div>
+<div align="right">
+  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+</div>
 
- ###  Stack implementado
-  
- <div style="display: inline-block;">
-  <img width="35" height="35" src="../doc/assets/icons/aws/lambda.png" />
-  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" /> 
-  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
- </div>
-  </div>
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
   
 <!------FIN CRUD Amazon S3 AWS------>
   
