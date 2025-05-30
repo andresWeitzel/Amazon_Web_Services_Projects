@@ -204,7 +204,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 
- <!------Api_Bioetanol_Estadisticas_DynamoDB_AWS------>
+ <!------START API_BIOETANOL_DYNAMO------>
  
 <div align="center">
   
@@ -240,7 +240,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   </a>
 </div>
   
-<!------FIN Api_Bioetanol_Estadisticas_DynamoDB_AWS------>
+<!------END API_BIOETANOL_DYNAMO------>
 
 <br>
 <br>
@@ -263,15 +263,18 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <div align="right">
   <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
   <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
   <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
+  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
+  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
 </div>
+
+<br>
 
 <br>
 

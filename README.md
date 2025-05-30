@@ -213,7 +213,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 
- <!------Api_Bioetanol_Estadisticas_DynamoDB_AWS------>
+ <!------START API_BIOETANOL_DYNAMO------>
  
 <div align="center">
   
@@ -252,7 +252,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
   
 
-<!------FIN Api_Bioetanol_Estadisticas_DynamoDB_AWS------>
+<!------END API_BIOETANOL_DYNAMO------>
 
 <br>
 <br>
@@ -271,31 +271,35 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
   </a>
+  
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/s3.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="23" height="25" src="./doc/assets/icons/aws/png/sqs.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+  <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+</div>
 
- ### [[Repository]](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
+  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
- </div>
-  
- ### Used Stack
-  
- <div style="display: inline-block;">
-  <img width="35" height="35" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/aws/png/dynamo.png" />
-  <img width="40" height="35" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="43" height="40" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="35" height="35" src="./doc/assets/icons/aws/png/lambda.png" />
-  <img width="40" height="40" src="./doc/assets/icons/backend/others/postman.png" /> 
-  <img width="44" height="40" src="./doc/assets/icons/backend/others/git.png" />
- </div>
- </div>
+</div>
+
+
 <!------FIN BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
 
   
