@@ -260,7 +260,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
   </a>
 
-<div align="right">
+  <div align="right">
   <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
   <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
