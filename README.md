@@ -79,7 +79,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
-* [CRUD model for managing object with S3 service](#crud-model-for-managing-objects-with-aws-amazon-s3-)
+* [CRUD model for managing S3 image objects.](#crud-model-for-managing-s3-image-objects-)
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/s3.png" />
@@ -266,7 +266,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Backup system for mining plant records implemented with SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Systems Manager Parameter Store, Serverless-Framework, Lambda, others. [🔝](#index-)
+### Backup system for mining plant [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
@@ -315,33 +315,38 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
   
-### CRUD model for managing objects with aws amazon s3 implemented with Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, others. [🔝](#index-)
+### CRUD model for managing S3 image objects. [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
-  </a>
- </div>
+  <div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/s3.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
 
- ### Used Stack
-  
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
- </div>
-  </div>
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+
   
 <!------FIN CRUD Amazon S3 AWS------>
   

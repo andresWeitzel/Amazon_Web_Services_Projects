@@ -77,7 +77,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
-* [Modelo CRUD para administrar objetos con servicio S3](#modelo-crud-para-el-manejo-de-objetos-con-amazon-s3-de-aws-implementado-con-systems-manager-parameter-store-bucket-s3-api-gateway-serverless-framework-lambda-nodejs-aws-sdk-v3-otros-) 
+* [Modelo CRUD para la gestión de objetos imagenes S3.](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3-)
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
@@ -254,7 +254,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Sistema de respaldo para registros de plantas mineras implementado con SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Systems Manager Parameter Store, Serverless-Framework, Lambda, otros. [🔝](#índice-)
+ ### Sistema de respaldo para planta minera. [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
@@ -304,25 +304,26 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
   
- ### Modelo CRUD para el manejo de objetos con amazon s3 de aws implementado con Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, otros. [🔝](#índice-)
+ ### Modelo CRUD para la gestión de objetos imagenes S3.[🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
   </a> 
 
-<div align="right">
+  <div align="right">
   <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
   <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
   <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+
 </div>
 
 <br>
+
 
  ### Detalles
 
