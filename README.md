@@ -87,7 +87,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
-* [CRUD model for managing Payments with MercadoPago](#crud-model-for-managing-mercadopago-payment-objects-)
+* [Mercadopago payment objects CRUD](#mercadopago-payment-objects-crud-)
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -95,21 +95,21 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
-* [Microservice OpenWeather Nodejs Jest](#microservice-openweather-with-nodejs-jest-)
+* [Microservice OpenWeather](#microservice-openweather-)
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
-* [Communication between lambda producer and consumer with SQS service](#communication-between-lambda-producer-and-consumer-)
+* [Lambdas Communication SQS Service](#lambdas-communication-sqs-service-)
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
     <img width="16" height="18" src="doc/assets/icons/aws/png/sqs.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
-* [CRUD model for communication between lambdas with SNS service](#crud-model-for-communication-between-lambdas-)
+* [Lambdas Communication SNS Service](#lambdas-communication-sns-service-)
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -361,33 +361,37 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### CRUD model for managing Mercadopago payment objects with aws DynamoDB implemented with Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, Typescript, DynamoDB, aws-sdk-v3, others. [🔝](#index-)
+### Mercadopago payment objects CRUD. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS/blob/master/doc/assets/CRUD_Amazon_DynamoDB_AWS.drawio.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
-  </a>
- </div>
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+   <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+</div>
 
- ### Used Stack
+<br>
 
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
- </div>
- </div>
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
   
 <!------FIN CRUD Amazon DynamoDB AWS------>
 
@@ -403,36 +407,37 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Microservice OpenWeather with Nodejs, Jest, Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, others. [🔝](#index-)
+### Microservice OpenWeather. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
-  </a> 
+  </a>
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [|]() [[PlayList]]()
   
- <div style="display: inline-block;"> 
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="23" height="25" src="./doc/assets/icons/aws/png/sqs.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-   <a href="" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>
 
- ### Used Stack
-
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="20" height="20" src="doc/assets/icons/frontend/vsc.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/sqs.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/postman.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/git.png" />
- </div>
- </div>
   
 <!------FIN Microservice OpenWeather Nodejs Jest ------>
 
@@ -449,37 +454,36 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Communication between lambda producer and lambda consumer using the AWS SQS service with FIFO queues. [🔝](#index-)
+### Lambdas Communication SQS Service. [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/img/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
-  </a> 
+  </a>
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
-  
- <div style="display: inline-block;"> 
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="23" height="25" src="./doc/assets/icons/aws/png/sqs.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
- </div>
-
- ### Used Stack
-
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="20" height="20" src="doc/assets/icons/frontend/vsc.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/sqs.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/postman.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/git.png" />
- </div>
-  </div>
-  
+</div>
+ 
 <!------FIN Producer_Consumer_SQS_FIFO_AWS------>
 
 <br>
@@ -494,37 +498,39 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### CRUD model for communication between lambdas through amazon simple notification service (SNS). [🔝](#index-)
+### Lambdas communication SNS Service. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS/blob/master/doc/assets/sns-example.png" >
-  </a> 
+  </a>
 
-  ###  [[Repository]](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
-  
- <div style="display: inline-block;"> 
+
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="23" height="25" src="./doc/assets/icons/aws/png/sqs.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
- </div>
+</div>
 
- ### Used Stack
- 
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="20" height="20" src="doc/assets/icons/frontend/vsc.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/sqs.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/postman.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/git.png" />
- </div>
-  </div>
-  
+
+
 <!------FIN  CRUD_SNS_NodeJS_AWS------>
 
 
@@ -554,28 +560,31 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
-  </a>
- </div>
 
- ### Used Stack
- 
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="20" height="20" src="doc/assets/icons/frontend/vsc.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/postman.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/git.png" />
- </div>
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
 </div>
+
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+
 
 <!------FIN  Lambda_Serverless_AWS_Example------>
 
@@ -594,29 +603,32 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
   </a> 
 
-  ###  [[Repository]](https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
-    <img width="60" height="60" src="./doc/assets/icons/redes/youtubeLogo.gif" />
-  </a>
- </div>
 
- ### Used Stack
- 
- <div style="display: inline-block;">
-  <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="20" height="20" src="doc/assets/icons/frontend/vsc.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/postman.png" />
-  <img width="20" height="20" src="doc/assets/icons/backend/others/git.png" />
- </div>
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
 </div>
+
+
+<br>
+
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBhSQCwGDw7uDd2yAu5tVsV" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
 
 <!------FIN  Lambda_Api_Gateway_Serverless_AWS_Example------>
 
@@ -640,14 +652,24 @@ Central repository for projects and tutorials that implement Amazon Web Services
 </div>
 
 ### Create a lambda function with Nodejs from AWS. [🔝](#index-)
-[See Tutorial](https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
 
 <br>
 
 ### Create a lambda function with Nodejs and Api Gateway from AWS. [🔝](#index-)
-[See Tutorial](https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D)
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
 
 <br>
 
 
-  
+
