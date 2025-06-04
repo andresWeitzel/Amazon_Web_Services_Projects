@@ -53,7 +53,8 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
  
 #### 🗂️ Projects
-* [Microservice for mercado libre users management](#microservice-for-mercado-libre-users-management-) 
+* [Microservice for mercado libre users management](#microservice-for-mercado-libre-users-management-)
+  
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -62,7 +63,9 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
     <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
   </div>
+  
 * [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-)
+  
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -70,7 +73,9 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
+  
 * [Backup System for mining plant](#backup-system-for-mining-plant-)
+  
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/s3.png" />
@@ -79,15 +84,19 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
+  
 * [CRUD model for managing S3 image objects.](#crud-model-for-managing-s3-image-objects-)
-  <div align="left">
+
+   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/s3.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Mercadopago payment objects CRUD](#mercadopago-payment-objects-crud-)
+
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -95,21 +104,27 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Microservice OpenWeather](#microservice-openweather-)
-  <div align="left">
+
+   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Lambdas Communication SQS Service](#lambdas-communication-sqs-service-)
+
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
     <img width="16" height="18" src="doc/assets/icons/aws/png/sqs.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Lambdas Communication SNS Service](#lambdas-communication-sns-service-)
+
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -120,12 +135,15 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 #### 📚 AWS Serverless Tutorials
 * [Creating and deploying a lambda function with serverless in AWS](#creating-and-deploying-a-lambda-function-)
+
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-)
-  <div align="left">
+
+   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
@@ -135,11 +153,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 #### 💻 AWS Console Tutorials
 * [Create a lambda function with Nodejs from AWS](#create-a-lambda-function-)
+
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Create a lambda function with Nodejs and Api Gateway from AWS](#create-a-lambda-function-with-api-)
+
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
@@ -410,7 +431,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 ### Microservice OpenWeather. [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
+  <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
   </a>
 
   
