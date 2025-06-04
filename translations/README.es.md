@@ -52,6 +52,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 #### 🗂️ Proyectos
 * [Microservicio para gestión de usuarios de mercado libre](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
@@ -60,7 +61,9 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
     <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
+  
 * [Api Rest para la gestión estadística de la producción y venta de bioetanol](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
@@ -68,8 +71,10 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
+  
 * [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) 
-  <div align="left">
+
+   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
@@ -77,7 +82,9 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
+  
 * [Modelo CRUD para la gestión de objetos imagenes S3.](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3-)
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
@@ -85,7 +92,9 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-gestionar-pagos-con-mercadopago-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
@@ -93,21 +102,27 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Microservicio OpenWeather](#microservicio-openweather-) 
-  <div align="left">
+
+   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Servicio SQS de comunicación Lambdas](#servicio-sqs-de-comunicación-lambdas-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
     <img width="16" height="18" src="../doc/assets/icons/aws/png/sqs.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Servicio SNS de comunicación Lambdas](#servicio-sns-de-comunicación-lambdas-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
@@ -118,11 +133,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 #### 📚 Tutoriales Serverless de AWS
 * [Crear e implementar una función lambda con serverless en AWS](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
@@ -133,12 +151,15 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 #### 💻 Tutoriales de la consola de AWS
 * [Crear una función lambda con Nodejs de AWS](#crear-una-función-lambda-con-nodejs-de-aws-) 
+
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
+  
 * [Crear una función lambda con Nodejs y Api Gateway de AWS](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
-  <div align="left">
+
+   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
@@ -399,7 +420,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 ### Microservicio OpenWeather. [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/master/doc/assets/img/weather-data.png" >
+  <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
   </a> 
 
     
