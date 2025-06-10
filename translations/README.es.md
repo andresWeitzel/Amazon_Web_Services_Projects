@@ -83,7 +83,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
-* [Modelo CRUD para la gestión de objetos imagenes S3.](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3-)
+* [Modelo CRUD para la gestión de objetos imagenes S3 ![Status](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3-----)
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -325,7 +325,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
   
- ### Modelo CRUD para la gestión de objetos imagenes S3.[🔝](#índice-)
+ ### Modelo CRUD para la gestión de objetos imagenes S3 ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >

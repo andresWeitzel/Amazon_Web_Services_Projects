@@ -85,7 +85,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
-* [CRUD model for managing S3 image objects.](#crud-model-for-managing-s3-image-objects-)
+* [CRUD model for managing S3 image objects ![Status](./doc/assets/icons/badges/status-completed.svg)](#crud-model-for-managing-s3-image-objects-------)
 
    <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -336,7 +336,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
   
-### CRUD model for managing S3 image objects. [🔝](#index-)
+### CRUD model for managing S3 image objects ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
