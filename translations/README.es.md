@@ -51,7 +51,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <br>
 
 #### 🗂️ Proyectos
-* [Microservicio para gestión de usuarios de mercado libre](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-) 
+* [Microservicio para gestión de usuarios de mercado libre ![Status](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-------) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -180,7 +180,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Microservicio para la gestión de usuarios de Mercado Libre. [🔝](#índice-)
+ ### Microservicio para la gestión de usuarios de Mercado Libre. ![Status](../doc/assets/icons/badges/status-completed.svg)    [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
