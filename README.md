@@ -53,7 +53,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
  
 #### 🗂️ Projects
-* [Microservice for mercado libre users management ![Status](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management-------)
+* [Microservice for mercado libre users management ![Status](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -64,7 +64,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
   </div>
   
-* [Api Rest for the statistical management of bioethanol production and sales](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales-)
+* [Api Rest for the statistical management of bioethanol production and sales ![Status](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
   
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -188,7 +188,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Microservice for mercado libre users management. ![Status](./doc/assets/icons/badges/status-completed.svg)      [🔝](#index-)
+### Microservice for mercado libre users management ![Status](./doc/assets/icons/badges/status-completed.svg)      [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -238,7 +238,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Api Rest for the statistical management of bioethanol production and sales. [🔝](#index-)
+### Api Rest for the statistical management of bioethanol production and sales ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >

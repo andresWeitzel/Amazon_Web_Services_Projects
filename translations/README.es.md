@@ -51,7 +51,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <br>
 
 #### 🗂️ Proyectos
-* [Microservicio para gestión de usuarios de mercado libre ![Status](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-----) 
+* [Microservicio para gestión de usuarios de mercado libre ![Status](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -62,7 +62,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
   
-* [Api Rest para la gestión estadística de la producción y venta de bioetanol](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
+* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![Status](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -83,7 +83,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
-* [Modelo CRUD para la gestión de objetos imagenes S3 ![Status](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3-----)
+* [Modelo CRUD para la gestión de objetos imagenes S3 ![Status](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -180,7 +180,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Microservicio para la gestión de usuarios de Mercado Libre. ![Status](../doc/assets/icons/badges/status-completed.svg)    [🔝](#índice-)
+ ### Microservicio para la gestión de usuarios de Mercado Libre. ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -229,7 +229,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Api Rest para el manejo estadístico de producción y ventas de bioetanol. [🔝](#índice-)
+ ### Api Rest para el manejo estadístico de producción y ventas de bioetanol ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
