@@ -188,8 +188,9 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Microservice for mercado libre users management. ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Microservice for mercado libre users management. [🔝](#index-)
 
+  ![Status](./doc/assets/icons/badges/status-completed.svg)
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
   </a>
