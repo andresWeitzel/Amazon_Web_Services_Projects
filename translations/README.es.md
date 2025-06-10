@@ -51,7 +51,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <br>
 
 #### 🗂️ Proyectos
-* [Microservicio para gestión de usuarios de mercado libre ![Status](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-------) 
+* [Microservicio para gestión de usuarios de mercado libre ![Status](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre-----) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
