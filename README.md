@@ -53,7 +53,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
  
 #### 🗂️ Projects
-* [Microservice for mercado libre users management](#microservice-for-mercado-libre-users-management-)
+* [Microservice for mercado libre users management ![Status](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management-------)
   
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
