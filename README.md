@@ -475,10 +475,10 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Lambdas Communication SQS Service. [🔝](#index-)
+### Lambdas Communication SQS Service. ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/img/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
+  <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/Producer_Consumer_SQS_FIFO_AWS.drawio.png" > 
   </a>
 
 <div align="right">

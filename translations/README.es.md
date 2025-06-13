@@ -468,7 +468,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  ### Servicio SQS de comunicación Lambdas. [🔝](#índice-)
  
  <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/img/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
+  <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
   </a>
 
 <div align="right">
