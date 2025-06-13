@@ -112,7 +112,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Servicio SQS de comunicación Lambdas](#servicio-sqs-de-comunicación-lambdas-) 
+* [Servicio SQS de comunicación Lambdas ![Status](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas-)
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
