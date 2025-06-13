@@ -114,7 +114,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Lambdas Communication SQS Service](#lambdas-communication-sqs-service-)
+* [Lambdas Communication SQS Service ![Status](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sqs-service-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
