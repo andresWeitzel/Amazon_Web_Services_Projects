@@ -134,14 +134,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### 📚 AWS Serverless Tutorials
-* [Creating and deploying a lambda function with serverless in AWS](#creating-and-deploying-a-lambda-function-)
+* [Creating and deploying a lambda function with serverless in AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS](#creating-and-deploying-a-lambda-function-with-serverless-)
+* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless-)
 
    <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -152,14 +152,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### 💻 AWS Console Tutorials
-* [Create a lambda function with Nodejs from AWS](#create-a-lambda-function-)
+* [Create a lambda function with Nodejs from AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Create a lambda function with Nodejs and Api Gateway from AWS](#create-a-lambda-function-with-api-)
+* [Create a lambda function with Nodejs and Api Gateway from AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-with-api-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -575,7 +575,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Creating and deploying a lambda function with serverless in AWS. [🔝](#index-)
+### Creating and deploying a lambda function with serverless in AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
@@ -618,7 +618,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS. [🔝](#index-)
+### Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
@@ -672,21 +672,21 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 </div>
 
-### Create a lambda function with Nodejs from AWS. [🔝](#index-)
+### Create a lambda function with Nodejs from AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    Watch video
   </a>
 </div>
 
 <br>
 
-### Create a lambda function with Nodejs and Api Gateway from AWS. [🔝](#index-)
+### Create a lambda function with Nodejs and Api Gateway from AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    Watch video
   </a>
 </div>
 
