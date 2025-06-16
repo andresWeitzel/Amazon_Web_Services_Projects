@@ -132,14 +132,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 📚 Tutoriales Serverless de AWS
-* [Crear e implementar una función lambda con serverless en AWS](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
+* [Crear e implementar una función lambda con serverless en AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
+* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -150,14 +150,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 💻 Tutoriales de la consola de AWS
-* [Crear una función lambda con Nodejs de AWS](#crear-una-función-lambda-con-nodejs-de-aws-) 
+* [Crear una función lambda con Nodejs de AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-de-aws-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Crear una función lambda con Nodejs y Api Gateway de AWS](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
+* [Crear una función lambda con Nodejs y Api Gateway de AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
 
    <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -560,7 +560,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Crear e implementar una función lambda con serverless en AWS. [🔝](#índice-)
+### Crear e implementar una función lambda con serverless en AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
@@ -601,7 +601,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS. [🔝](#índice-)
+### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
@@ -653,21 +653,21 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 </div>
 
-### Crear una función lambda con Nodejs de AWS. [🔝](#índice-)
+### Crear una función lambda con Nodejs de AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    Ver video
   </a>
 </div>
 
 <br>
 
-### Crear una función lambda con Nodejs y Api Gateway de AWS. [🔝](#índice-)
+### Crear una función lambda con Nodejs y Api Gateway de AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    Ver video
   </a>
 </div>
 
