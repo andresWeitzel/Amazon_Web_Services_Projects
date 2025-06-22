@@ -51,7 +51,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <br>
 
 #### 🗂️ Proyectos
-* [Microservicio para gestión de usuarios de mercado libre ![Status](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--) 
+* [Microservicio para gestión de usuarios de mercado libre ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -62,7 +62,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
   
-* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![Status](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
+* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -83,7 +83,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
-* [Modelo CRUD para la gestión de objetos imagenes S3 ![Status](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
+* [Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -112,7 +112,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Servicio SQS de comunicación Lambdas ![Status](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas-)
+* [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas-)
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -132,14 +132,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 📚 Tutoriales Serverless de AWS
-* [Crear e implementar una función lambda con serverless en AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
+* [Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
+* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -150,14 +150,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 💻 Tutoriales de la consola de AWS
-* [Crear una función lambda con Nodejs de AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-de-aws-) 
+* [Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-de-aws-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Crear una función lambda con Nodejs y Api Gateway de AWS ![Status](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
+* [Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
 
    <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -180,7 +180,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Microservicio para la gestión de usuarios de Mercado Libre. ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Microservicio para la gestión de usuarios de Mercado Libre. ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -229,7 +229,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Api Rest para el manejo estadístico de producción y ventas de bioetanol ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Api Rest para el manejo estadístico de producción y ventas de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
@@ -325,7 +325,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
   
- ### Modelo CRUD para la gestión de objetos imagenes S3 ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
@@ -465,7 +465,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
- ### Servicio SQS de comunicación Lambdas. ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Servicio SQS de comunicación Lambdas. ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
  <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
@@ -560,7 +560,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Crear e implementar una función lambda con serverless en AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
@@ -601,7 +601,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
@@ -653,7 +653,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 </div>
 
-### Crear una función lambda con Nodejs de AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
@@ -663,7 +663,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 <br>
 
-### Crear una función lambda con Nodejs y Api Gateway de AWS ![Status](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">

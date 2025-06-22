@@ -53,7 +53,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
  
 #### 🗂️ Projects
-* [Microservice for mercado libre users management ![Status](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
+* [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -64,7 +64,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
   </div>
   
-* [Api Rest for the statistical management of bioethanol production and sales ![Status](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
+* [Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
   
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -85,7 +85,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
-* [CRUD model for managing S3 image objects ![Status](./doc/assets/icons/badges/status-completed.svg)](#crud-model-for-managing-s3-image-objects-------)
+* [CRUD model for managing S3 image objects ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#crud-model-for-managing-s3-image-objects-------)
 
    <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -114,7 +114,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Lambdas Communication SQS Service ![Status](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sqs-service-)
+* [Lambdas Communication SQS Service ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sqs-service-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -134,14 +134,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### 📚 AWS Serverless Tutorials
-* [Creating and deploying a lambda function with serverless in AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-)
+* [Creating and deploying a lambda function with serverless in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless-)
+* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless-)
 
    <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -152,14 +152,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### 💻 AWS Console Tutorials
-* [Create a lambda function with Nodejs from AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-)
+* [Create a lambda function with Nodejs from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Create a lambda function with Nodejs and Api Gateway from AWS ![Status](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-with-api-)
+* [Create a lambda function with Nodejs and Api Gateway from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-with-api-)
 
   <div align="left">
     <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
@@ -188,7 +188,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Microservice for mercado libre users management ![Status](./doc/assets/icons/badges/status-completed.svg)      [🔝](#index-)
+### Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)      [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -238,7 +238,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <div align="center">
   
-### Api Rest for the statistical management of bioethanol production and sales ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
@@ -336,7 +336,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
   
-### CRUD model for managing S3 image objects ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### CRUD model for managing S3 image objects ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
@@ -475,7 +475,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Lambdas Communication SQS Service. ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Lambdas Communication SQS Service. ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/Producer_Consumer_SQS_FIFO_AWS.drawio.png" > 
@@ -575,7 +575,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Creating and deploying a lambda function with serverless in AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Creating and deploying a lambda function with serverless in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
@@ -618,7 +618,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
@@ -672,7 +672,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 </div>
 
-### Create a lambda function with Nodejs from AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Create a lambda function with Nodejs from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
@@ -682,7 +682,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 <br>
 
-### Create a lambda function with Nodejs and Api Gateway from AWS ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Create a lambda function with Nodejs and Api Gateway from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
