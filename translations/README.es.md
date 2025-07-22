@@ -596,6 +596,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <br>
 
+<br>
 
 <!------ Lambda_Api_Gateway_Serverless_AWS_Example------>
   
@@ -636,8 +637,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 
 
-<br>
-<br>
 <br>
 <br>
 <br>

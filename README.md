@@ -613,6 +613,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
  
 <br>
 
+<br>
 
 <!------ Lambda_Api_Gateway_Serverless_AWS_Example------>
   
@@ -655,8 +656,6 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 
 
-<br>
-<br>
 <br>
 <br>
 <br>
