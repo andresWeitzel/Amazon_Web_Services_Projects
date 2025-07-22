@@ -56,22 +56,32 @@ Central repository for projects and tutorials that implement Amazon Web Services
 * [Microservice for mercado libre users management ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-for-mercado-libre-users-management--)
   
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/vsc.png" />
+    <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
   </div>
   
 * [Api Rest for the statistical management of bioethanol production and sales ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#api-rest-for-the-statistical-management-of-bioethanol-production-and-sales--)
   
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
   </div>
   
 * [Backup System for mining plant](#backup-system-for-mining-plant-)
@@ -87,22 +97,29 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 * [CRUD model for managing S3 image objects ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#crud-model-for-managing-s3-image-objects-------)
 
-   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/s3.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <div align="left">
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Mercadopago payment objects CRUD](#mercadopago-payment-objects-crud-)
 
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
   </div>
   
 * [Microservice OpenWeather](#microservice-openweather-)
@@ -117,18 +134,27 @@ Central repository for projects and tutorials that implement Amazon Web Services
 * [Lambdas Communication SQS Service ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sqs-service-)
 
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="16" height="18" src="doc/assets/icons/aws/png/sqs.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="23" height="25" src="./doc/assets/icons/aws/png/sqs.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Lambdas Communication SNS Service ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sns-service-)
 
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="23" height="25" src="./doc/assets/icons/aws/png/sqs.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
 <br>
@@ -137,16 +163,24 @@ Central repository for projects and tutorials that implement Amazon Web Services
 * [Creating and deploying a lambda function with serverless in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-)
 
   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless-)
 
-   <div align="left">
-    <img width="18" height="18" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <div align="left">
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
 <br>
@@ -194,18 +228,17 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
   </a>
   <div align="right">
-  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
     <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-  <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
-  <img width="30" height="30" src="./doc/assets/icons/devops/png/vsc.png" />
-  <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
-
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="./doc/assets/icons/aws/png/rds.png" />
+    <img width="30" height="30" src="./doc/assets/icons/devops/png/vsc.png" />
+    <img width="23" height="23" src="./doc/assets/icons/devops/png/docker.png" />
 </div>
 
 <br>
@@ -244,18 +277,16 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
   </a>
   <div align="right">
-  
-  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
-  <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" />
-  
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+    <img width="24" height="24" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="32" height="32" src="./doc/assets/icons/devops/png/vsc.png" /> 
 </div>
 
 <br>
@@ -343,16 +374,15 @@ Central repository for projects and tutorials that implement Amazon Web Services
   </a> 
 
   <div align="right">
-  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/s3.png" />
-  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-
-</div>
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  </div>
 
 <br>
 
@@ -397,7 +427,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-   <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+  <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
 </div>
 
 <br>
