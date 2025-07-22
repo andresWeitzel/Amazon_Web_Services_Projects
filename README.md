@@ -144,7 +144,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Lambdas Communication SNS Service ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sns-service-)
+* [Lambdas Communication SNS Service ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#lambdas-communication-sns-service--)
 
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
