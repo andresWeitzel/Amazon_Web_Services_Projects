@@ -121,7 +121,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Servicio SNS de comunicación Lambdas](#servicio-sns-de-comunicación-lambdas-) 
+* [Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sns-de-comunicación-lambdas-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -465,7 +465,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
- ### Servicio SQS de comunicación Lambdas. ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
  <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
@@ -510,7 +510,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
- ###  Servicio SNS de comunicación Lambdas. [🔝](#índice-)
+ ###  Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS/blob/master/doc/assets/sns-example.png" >
@@ -536,7 +536,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
     <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDBEKoDX8LBe5PxRlUzkrXO" target="_blank">
     <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
 </div>
