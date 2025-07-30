@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amazon Web Services Projects</title>
     <style>
+        /* GitHub README Style */
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
             line-height: 1.6;
@@ -12,8 +13,11 @@
             background-color: #ffffff;
             margin: 0;
             padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
         }
 
+        /* Loading Spinner */
         .loading-spinner {
             position: fixed;
             top: 0;
@@ -42,25 +46,18 @@
             100% { transform: rotate(360deg); }
         }
 
-        /* Replicar exactamente el estilo del README */
-        div[align="center"] {
-            text-align: center;
-        }
-
-        div[align="right"] {
-            text-align: right;
-        }
-
-        div[align="left"] {
-            text-align: left;
-        }
-
-        h2, h3 {
-            color: #24292f;
+        /* GitHub Markdown Styles */
+        h1, h2, h3, h4, h5, h6 {
             margin-top: 24px;
             margin-bottom: 16px;
             font-weight: 600;
             line-height: 1.25;
+        }
+
+        h1 {
+            font-size: 2em;
+            border-bottom: 1px solid #d0d7de;
+            padding-bottom: 0.3em;
         }
 
         h2 {
@@ -73,12 +70,18 @@
             font-size: 1.25em;
         }
 
-        br {
-            display: block;
-            margin: 8px 0;
+        h4 {
+            font-size: 1em;
         }
 
-        ul {
+        p {
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+
+        ul, ol {
+            margin-top: 0;
+            margin-bottom: 16px;
             padding-left: 2em;
         }
 
@@ -113,19 +116,20 @@
             color: #0969da;
         }
 
-        /* Estilo para los enlaces del índice */
-        .index-link {
-            display: block;
-            margin: 8px 0;
-            color: #0969da;
-            text-decoration: none;
+        /* GitHub-specific alignments */
+        div[align="center"] {
+            text-align: center;
         }
 
-        .index-link:hover {
-            text-decoration: underline;
+        div[align="right"] {
+            text-align: right;
         }
 
-        /* Estilo para las secciones de proyectos */
+        div[align="left"] {
+            text-align: left;
+        }
+
+        /* Project sections */
         .project-section {
             margin: 40px 0;
         }
@@ -160,19 +164,30 @@
             margin: 0 5px;
         }
 
-        /* Estilo para las listas de tecnologías */
-        .tech-list {
-            margin: 16px 0;
+        /* Index links */
+        .index-link {
+            display: block;
+            margin: 8px 0;
+            color: #0969da;
+            text-decoration: none;
         }
 
-        .tech-list li {
-            margin: 4px 0;
+        .index-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Status badges */
+        .status-badge {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-left: 5px;
         }
 
         /* Responsive */
         @media (max-width: 768px) {
             body {
-                padding: 10px;
+                padding: 15px;
             }
             
             .project-tech {
@@ -244,60 +259,68 @@
         
         <h4>🗂️ Projects</h4>
         
-        <a href="#microservice-mercadolibre" class="index-link">
-            Microservice for mercado libre users management 
-            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" width="20" height="20" style="vertical-align: middle;">
-        </a>
-        
-        <div align="left">
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
-            <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
-            <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
-            <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/sequelize.png?v=1.0" />
-            <img width="25" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/rds.png?v=1.0" />
-            <img width="30" height="30" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
-            <img width="23" height="23" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/docker.png?v=1.0" />
-        </div>
-        
-        <a href="#api-bioetanol" class="index-link">
-            Api Rest for the statistical management of bioethanol production and sales 
-            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" width="20" height="20" style="vertical-align: middle;">
-        </a>
-        
-        <div align="left">
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
-            <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
-            <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
-            <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
-            <img width="25" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
-            <img width="24" height="24" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
-            <img width="32" height="32" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
-        </div>
-        
-        <a href="#backup-system" class="index-link">
-            Backup System for mining plant
-        </a>
-        
-        <div align="left">
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
-            <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/s3.png?v=1.0" />
-            <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
-            <img width="23" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/sqs.png?v=1.0" />
-            <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
-            <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
-            <img width="27" height="28" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
-            <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
-        </div>
+        <ul>
+            <li>
+                <a href="#microservice-mercadolibre" class="index-link">
+                    Microservice for mercado libre users management 
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" class="status-badge">
+                </a>
+                
+                <div align="left">
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                    <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                    <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                    <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/sequelize.png?v=1.0" />
+                    <img width="25" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/rds.png?v=1.0" />
+                    <img width="30" height="30" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+                    <img width="23" height="23" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/docker.png?v=1.0" />
+                </div>
+            </li>
+            
+            <li>
+                <a href="#api-bioetanol" class="index-link">
+                    Api Rest for the statistical management of bioethanol production and sales 
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" class="status-badge">
+                </a>
+                
+                <div align="left">
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                    <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                    <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                    <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                    <img width="25" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+                    <img width="24" height="24" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+                    <img width="32" height="32" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+                </div>
+            </li>
+            
+            <li>
+                <a href="#backup-system" class="index-link">
+                    Backup System for mining plant
+                </a>
+                
+                <div align="left">
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                    <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/s3.png?v=1.0" />
+                    <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                    <img width="23" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/sqs.png?v=1.0" />
+                    <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                    <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                    <img width="27" height="28" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+                    <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+                </div>
+            </li>
+        </ul>
     </details>
 
     <br>
