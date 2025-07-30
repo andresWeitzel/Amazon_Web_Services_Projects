@@ -1,22 +1,22 @@
 <div align = "center">
-<img src="../doc/assets/img/aws.jpg" >
+<img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/img/aws.jpg?v=1.0" >
 </div>
 
 <br>
 
 <div align="right">
     <a href="README.es.md" target="_blank">
-      <img src="../doc/assets/icons/translation/arg-flag.jpg" width="65" height="40" />
+      <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/translation/arg-flag.jpg?v=1.0" width="65" height="40" />
   </a> 
    <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
-      <img src="../doc/assets/icons/translation/eeuu-flag.jpg" width="65" height="40" />
+      <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/translation/eeuu-flag.jpg?v=1.0" width="65" height="40" />
   </a> 
 </div>
 
 
 <div align="center">
   
-## <img width="48" height="48"  src="../doc/assets/gifs/aws/aws.gif" /> Amazon Web Services
+## <img width="48" height="48"  src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/gifs/aws/aws.gif?v=1.0" /> Amazon Web Services
 
 </div>  
 
@@ -51,77 +51,77 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  <br>
 
 #### 🗂️ Proyectos
-* [Microservicio para gestión de usuarios de mercado libre ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--) 
+* [Microservicio para gestión de usuarios de mercado libre ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/sequelize.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/docker.png?v=1.0" />
   </div>
   
-* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
+* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
   </div>
   
 * [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) 
 
    <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/sqs.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/s3.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/sqs.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
   </div>
   
-* [Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
+* [Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/s3.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
   
 * [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-gestionar-pagos-con-mercadopago-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
   
 * [Microservicio OpenWeather](#microservicio-openweather-) 
 
    <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
   
-* [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas-)
+* [Servicio SQS de comunicación Lambdas ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#servicio-sqs-de-comunicación-lambdas-)
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="16" height="18" src="../doc/assets/icons/aws/png/sqs.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="16" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/sqs.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
   
-* [Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sns-de-comunicación-lambdas-) 
+* [Servicio SNS de comunicación Lambdas ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#servicio-sns-de-comunicación-lambdas-) 
 
   <div align="left">
     <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -132,37 +132,37 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 📚 Tutoriales Serverless de AWS
-* [Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
+* [Crear e implementar una función lambda con serverless en AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-)
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
   
-* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
+* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-)
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
 
 <br>
 
 #### 💻 Tutoriales de la consola de AWS
-* [Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-de-aws-) 
+* [Crear una función lambda con Nodejs de AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#crear-una-función-lambda-con-nodejs-de-aws-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
   
-* [Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
+* [Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
 
    <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="18" height="18" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+    <img width="20" height="20" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
   </div>
 
   
@@ -180,7 +180,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Microservicio para la gestión de usuarios de Mercado Libre. ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Microservicio para la gestión de usuarios de Mercado Libre. ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
@@ -188,17 +188,17 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
   <div align="right">
 
-  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-  <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
-  <img width="30" height="30" src="../doc/assets/icons/devops/png/vsc.png" />
-  <img width="23" height="23" src="../doc/assets/icons/devops/png/docker.png" />
+  <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/aws.png?v=1.0" />
+  <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+  <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/postman.png?v=1.0" />
+  <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/git.png?v=1.0" />
+  <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+  <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+  <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+  <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/sequelize.png?v=1.0" />
+  <img width="25" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/rds.png?v=1.0" />
+  <img width="30" height="30" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+  <img width="23" height="23" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/docker.png?v=1.0" />
 </div>
 
 <br>
@@ -207,10 +207,10 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="code" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/gifs/social-network/github.gif?v=1.0" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="playlist" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/gifs/social-network/youtube.gif?v=1.0" style="display: inline-block;" />
   </a>
 </div>
 
@@ -229,23 +229,23 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
  
 <div align="center">
   
- ### Api Rest para el manejo estadístico de producción y ventas de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Api Rest para el manejo estadístico de producción y ventas de bioetanol ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" >
   </a>
 
 <div align="right">
-  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/aws.png?v=1.0" />
+  <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+  <img width="28" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+  <img width="27" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+  <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+  <img width="25" height="25" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+  <img width="25" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+  <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+  <img width="27" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/postman.png?v=1.0" />
+  <img width="29" height="27" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/devops/png/git.png?v=1.0" />
 </div>
 
 <br>
@@ -254,10 +254,10 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="code" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/gifs/social-network/github.gif?v=1.0" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="playlist" src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/gifs/social-network/youtube.gif?v=1.0" style="display: inline-block;" />
   </a>
 </div>
   
@@ -325,7 +325,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
   
- ### Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
@@ -465,7 +465,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
- ### Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ### Servicio SQS de comunicación Lambdas ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
  
  <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
@@ -510,7 +510,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
- ###  Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+ ###  Servicio SNS de comunicación Lambdas ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
  
   <a href="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS/blob/master/doc/assets/sns-example.png" >
@@ -560,7 +560,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear e implementar una función lambda con serverless en AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Serverless_AWS_Example/blob/master/doc/assets/lambda.png" >
@@ -602,7 +602,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   
 <div align="center">
 
-### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example" target="_blank">
   <img src="https://github.com/andresWeitzel/Lambda_Api_Gateway_Serverless_AWS_Example/blob/master/doc/assets/img/img.png" >
@@ -652,7 +652,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 </div>
 
-### Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear una función lambda con Nodejs de AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
@@ -662,7 +662,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 <br>
 
-### Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/main/doc/assets/icons/badges/status-completed.svg?v=1.0) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=-HxTFrNoE58&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&index=2&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
