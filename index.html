@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Web Services Projects - Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+
+        .loading-spinner {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            transition: opacity 0.5s ease-out;
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .header img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .language-switch {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .language-switch a {
+            border-radius: 5px;
+            transition: transform 0.2s ease;
+        }
+
+        .language-switch a:hover {
+            transform: scale(1.05);
+        }
+
+        .aws-title {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            margin: 20px 0;
+            font-size: 2.5rem;
+            color: #2c3e50;
+        }
+
+        .aws-title img {
+            width: 48px;
+            height: 48px;
+        }
+
+        .description {
+            text-align: center;
+            margin: 30px 0;
+            color: #555;
+            font-size: 1.1rem;
+        }
+
+        .tech-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 30px 0;
+            text-align: left;
+        }
+
+        .tech-item {
+            background: #f8f9fa;
+            padding: 10px 15px;
+            border-radius: 8px;
+            border-left: 4px solid #3498db;
+        }
+
+        .index-section {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .index-toggle {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 15px 25px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+
+        .index-toggle:hover {
+            background: #2980b9;
+        }
+
+        .index-content {
+            display: none;
+            margin-top: 20px;
+        }
+
+        .index-content.show {
+            display: block;
+        }
+
+        .project-link {
+            display: block;
+            padding: 15px;
+            margin: 10px 0;
+            background: #f8f9fa;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #333;
+            transition: all 0.3s ease;
+            border-left: 4px solid #3498db;
+        }
+
+        .project-link:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+        }
+
+        .project-link .status-badge {
+            width: 20px;
+            height: 20px;
+            margin-left: 10px;
+        }
+
+        .tech-icons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .tech-icons img {
+            width: 25px;
+            height: 25px;
+            border-radius: 4px;
+            transition: transform 0.2s ease;
+        }
+
+        .tech-icons img:hover {
+            transform: scale(1.1);
+        }
+
+        .projects-section {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .project-card {
+            margin-bottom: 50px;
+            padding: 30px;
+            border: 1px solid #e9ecef;
+            border-radius: 15px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .project-title {
+            text-align: center;
+            font-size: 1.8rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .project-title .status-badge {
+            width: 25px;
+            height: 25px;
+        }
+
+        .project-image {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .project-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .project-tech {
+            text-align: right;
+            margin: 20px 0;
+        }
+
+        .project-tech img {
+            width: 25px;
+            height: 25px;
+            margin-left: 8px;
+            border-radius: 4px;
+            transition: transform 0.2s ease;
+        }
+
+        .project-tech img:hover {
+            transform: scale(1.1);
+        }
+
+        .project-details {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .social-links a {
+            transition: transform 0.2s ease;
+        }
+
+        .social-links a:hover {
+            transform: scale(1.1);
+        }
+
+        .social-links img {
+            width: 60px;
+            height: 60px;
+        }
+
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 15px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .back-to-top:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+            
+            .aws-title {
+                font-size: 2rem;
+                flex-direction: column;
+            }
+            
+            .tech-list {
+                grid-template-columns: 1fr;
+            }
+            
+            .project-card {
+                padding: 20px;
+            }
+            
+            .social-links {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Loading Spinner -->
+    <div id="loading-spinner" class="loading-spinner">
+        <div style="text-align: center;">
+            <div class="spinner"></div>
+            <p style="margin-top: 20px; font-size: 18px; color: #333;">Cargando portfolio...</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div class="language-switch">
+                <a href="./translations/README.es.md" target="_blank">
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/translation/arg-flag.jpg?v=1.0" width="65" height="40" />
+                </a>
+                <a href="https://github.com/andresWeitzel/Amazon_Web_Services_Projects" target="_blank">
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/translation/eeuu-flag.jpg?v=1.0" width="65" height="40" />
+                </a>
+            </div>
+
+            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/img/aws.jpg?v=1.0" alt="AWS">
+
+            <div class="aws-title">
+                <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/aws/aws.gif?v=1.0" alt="AWS">
+                Amazon Web Services
+            </div>
+
+            <div class="description">
+                Central repository for projects and tutorials that implement Amazon Web Services (AWS) technologies.
+            </div>
+
+            <div class="tech-list">
+                <div class="tech-item">Languages: Javascript, Typescript, others.</div>
+                <div class="tech-item">Frameworks: Serverless, others.</div>
+                <div class="tech-item">AWS Services: Lambda, S3, SQS, SNS, RDS, Api Gateway, DynamoDB, others.</div>
+                <div class="tech-item">Technologies: Nodejs, others.</div>
+                <div class="tech-item">ORM: Sequelize, TypeORM, others.</div>
+                <div class="tech-item">Databases: MySQL, DynamoDB, others.</div>
+                <div class="tech-item">Libraries: dotenv, cors, aws-sdk-v3, nodemon, others.</div>
+                <div class="tech-item">Tools: Vsc, Postman, Git, others.</div>
+                <div class="tech-item">Testing: Jest, Supertest, Mocha & Chai, others.</div>
+            </div>
+        </div>
+
+        <!-- Index Section -->
+        <div class="index-section">
+            <button class="index-toggle" onclick="toggleIndex()">📜 Index</button>
+            <div class="index-content" id="index-content">
+                <h3>🗂️ Projects</h3>
+                <a href="#microservice-mercadolibre" class="project-link">
+                    Microservice for mercado libre users management 
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" class="status-badge">
+                    <div class="tech-icons">
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/sequelize.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/rds.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/docker.png?v=1.0" />
+                    </div>
+                </a>
+                <a href="#api-bioetanol" class="project-link">
+                    Api Rest for the statistical management of bioethanol production and sales 
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" class="status-badge">
+                    <div class="tech-icons">
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+                    </div>
+                </a>
+                <a href="#backup-system" class="project-link">
+                    Backup System for mining plant
+                    <div class="tech-icons">
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/s3.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/sqs.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+                        <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Projects Section -->
+        <div class="projects-section">
+            <h2 style="text-align: center; margin-bottom: 30px; color: #2c3e50;">🗂️ Projects</h2>
+
+            <!-- Microservice Mercadolibre -->
+            <div class="project-card" id="microservice-mercadolibre">
+                <h3 class="project-title">
+                    Microservice for mercado libre users management 
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" class="status-badge">
+                </h3>
+
+                <div class="project-image">
+                    <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+                        <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" alt="Microservice Mercadolibre">
+                    </a>
+                </div>
+
+                <div class="project-tech">
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/sequelize.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/rds.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/docker.png?v=1.0" />
+                </div>
+
+                <div class="project-details">
+                    <h4>Details</h4>
+                    <div class="social-links">
+                        <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+                            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/social-network/github.gif?v=1.0" alt="GitHub">
+                        </a>
+                        <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+                            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/social-network/youtube.gif?v=1.0" alt="YouTube">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- API Bioetanol -->
+            <div class="project-card" id="api-bioetanol">
+                <h3 class="project-title">
+                    Api Rest for the statistical management of bioethanol production and sales 
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/badges/status-completed.svg?v=1.0" class="status-badge">
+                </h3>
+
+                <div class="project-image">
+                    <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
+                        <img src="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS/blob/master/doc/datos/bioetanolTablas.png" alt="API Bioetanol">
+                    </a>
+                </div>
+
+                <div class="project-tech">
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/vsc.png?v=1.0" />
+                </div>
+
+                <div class="project-details">
+                    <h4>Details</h4>
+                    <div class="social-links">
+                        <a href="https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS" target="_blank">
+                            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/social-network/github.gif?v=1.0" alt="GitHub">
+                        </a>
+                        <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDt4nwIAFwH0FTX5hvPl5re" target="_blank">
+                            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/social-network/youtube.gif?v=1.0" alt="YouTube">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Backup System -->
+            <div class="project-card" id="backup-system">
+                <h3 class="project-title">
+                    Backup System for mining plant
+                </h3>
+
+                <div class="project-image">
+                    <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
+                        <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" alt="Backup System">
+                    </a>
+                </div>
+
+                <div class="project-tech">
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/aws.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/lambda.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/postman.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/devops/png/git.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/s3.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/api-gateway.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/sqs.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/parameter-store.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/nodejs.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/aws/png/dynamo.png?v=1.0" />
+                    <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/icons/backend/javascript-typescript/png/typescript.png?v=1.0" />
+                </div>
+
+                <div class="project-details">
+                    <h4>Details</h4>
+                    <div class="social-links">
+                        <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
+                            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/social-network/github.gif?v=1.0" alt="GitHub">
+                        </a>
+                        <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+                            <img src="https://raw.githubusercontent.com/andresWeitzel/Amazon_Web_Services_Projects/master/doc/assets/gifs/social-network/youtube.gif?v=1.0" alt="YouTube">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" onclick="scrollToTop()">↑</button>
+
+    <script>
+        // Toggle index visibility
+        function toggleIndex() {
+            const content = document.getElementById('index-content');
+            content.classList.toggle('show');
+        }
+
+        // Scroll to top
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+
+        // Initialize loading spinner
+        function initLoading() {
+            const images = document.querySelectorAll('img');
+            let loadedImages = 0;
+            const totalImages = images.length;
+
+            function checkAllLoaded() {
+                loadedImages++;
+                if (loadedImages >= totalImages) {
+                    setTimeout(() => {
+                        const spinner = document.getElementById('loading-spinner');
+                        spinner.style.opacity = '0';
+                        setTimeout(() => {
+                            spinner.style.display = 'none';
+                        }, 500);
+                    }, 1000);
+                }
+            }
+
+            images.forEach(img => {
+                if (img.complete) {
+                    checkAllLoaded();
+                } else {
+                    img.addEventListener('load', checkAllLoaded);
+                    img.addEventListener('error', checkAllLoaded);
+                }
+            });
+
+            // Fallback if no images
+            if (totalImages === 0) {
+                setTimeout(() => {
+                    const spinner = document.getElementById('loading-spinner');
+                    spinner.style.opacity = '0';
+                    setTimeout(() => {
+                        spinner.style.display = 'none';
+                    }, 500);
+                }, 1000);
+            }
+        }
+
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Initialize when DOM is loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(initLoading, 100);
+        });
+    </script>
+</body>
+</html> 
