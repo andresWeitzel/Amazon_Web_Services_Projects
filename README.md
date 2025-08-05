@@ -168,7 +168,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### 📚 AWS Serverless Tutorials
-* [Creating and deploying a lambda function with serverless in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function--)
+* [Creating and deploying a lambda function with serverless in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless-in-aws--)
 
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -179,7 +179,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless--)
+* [Creating and deploying a lambda function with serverless, Api gateway and nodejs in AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#creating-and-deploying-a-lambda-function-with-serverless-api-gateway-and-nodejs-in-aws--)
 
   <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -194,19 +194,19 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 
 #### 💻 AWS Console Tutorials
-* [Create a lambda function with Nodejs from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function--)
+* [Create a lambda function with Nodejs from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-with-nodejs-from-aws--)
 
   <div align="left">
-    <img width="25" height="25" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Create a lambda function with Nodejs and Api Gateway from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-with-api--)
+* [Create a lambda function with Nodejs and Api Gateway from AWS ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#create-a-lambda-function-with-nodejs-and-api-gateway-from-aws--)
 
   <div align="left">
-    <img width="25" height="25" src="doc/assets/icons/aws/png/lambda.png" />
-    <img width="28" height="27" src="doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="27" src="doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
 <br>
@@ -647,9 +647,10 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <!------FIN  Lambda_Serverless_AWS_Example------>
 
 <br>
- 
 <br>
-
+<br>
+<br>
+<br>
 <br>
 
 <!------ Lambda_Api_Gateway_Serverless_AWS_Example------>

@@ -54,79 +54,113 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [Microservicio para gestión de usuarios de mercado libre ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#microservicio-para-la-gestión-de-usuarios-de-mercado-libre--) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
+    <img width="30" height="30" src="../doc/assets/icons/devops/png/vsc.png" />
+    <img width="23" height="23" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
   
 * [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
+    <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="32" height="32" src="../doc/assets/icons/devops/png/vsc.png" />
   </div>
   
 * [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) 
 
    <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/sqs.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
 * [Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-gestionar-pagos-con-mercadopago-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
   </div>
   
 * [Microservicio OpenWeather](#microservicio-openweather-) 
 
    <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas-)
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="16" height="18" src="../doc/assets/icons/aws/png/sqs.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sns-de-comunicación-lambdas-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
 <br>
@@ -135,16 +169,24 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
 <br>
@@ -153,16 +195,16 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 * [Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-de-aws-) 
 
   <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
 * [Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
 
    <div align="left">
-    <img width="18" height="18" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="20" height="20" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
   
@@ -238,14 +280,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <div align="right">
   <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
   <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
   <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
   <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/vsc.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="24" height="24" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  <img width="32" height="32" src="../doc/assets/icons/devops/png/vsc.png" />
 </div>
 
 <br>
@@ -291,7 +333,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
   <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="25" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
+  <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
   <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
 </div>
 
@@ -430,7 +472,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
   <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
   <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
   <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
   <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
   <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
 </div>
