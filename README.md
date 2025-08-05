@@ -1,6 +1,6 @@
 
 <div align = "center">
-  <img src="./doc/assets/img/aws.jpg" >
+  <img src="./doc/assets/img/aws.jpg" > 
 </div>
 
 <br>
