@@ -491,7 +491,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBT1qmJdISY-0AlqxrZGZ7r" target="_blank">
     <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
   </a>
 </div>
