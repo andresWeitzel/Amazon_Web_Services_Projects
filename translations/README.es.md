@@ -67,7 +67,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="23" height="23" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
   
-* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol-implementado-con-serverless-framework-api-gateway-nodejs-dynamodb-systems-manager-parameter-store-lambda-otros-) 
+* [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol--) 
 
   <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
@@ -82,7 +82,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="32" height="32" src="../doc/assets/icons/devops/png/vsc.png" />
   </div>
   
-* [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-registros-de-plantas-mineras-implementado-con-sqs-sns-typescript-s3-dynamodb-api-gateway-cloudwatch-systems-manager-parameter-store-serverless-framework-lambda-otros-) 
+* [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-planta-minera-) 
 
    <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
@@ -137,7 +137,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas-)
+* [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas--)
 
   <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
@@ -150,7 +150,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sns-de-comunicación-lambdas-) 
+* [Servicio SNS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sns-de-comunicación-lambdas--) 
 
   <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
@@ -166,7 +166,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 📚 Tutoriales Serverless de AWS
-* [Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws-) 
+* [Crear e implementar una función lambda con serverless en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-en-aws--) 
 
   <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
@@ -177,7 +177,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws-) 
+* [Crear e implementar una función lambda con serverless, Api gateway y nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-e-implementar-una-función-lambda-con-serverless-api-gateway-y-nodejs-en-aws--) 
 
   <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
@@ -192,14 +192,14 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 
 #### 💻 Tutoriales de la consola de AWS
-* [Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-de-aws-) 
+* [Crear una función lambda con Nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-en-aws--) 
 
   <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws-) 
+* [Crear una función lambda con Nodejs y Api Gateway de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#crear-una-función-lambda-con-nodejs-y-api-gateway-de-aws--) 
 
    <div align="left">
     <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
@@ -693,7 +693,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 </div>
 
-### Crear una función lambda con Nodejs de AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Crear una función lambda con Nodejs en AWS ![(status-completed)](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://www.youtube.com/watch?v=IwQxkeo1t4U&list=PLCl11UFjHurA0CRPpDpaqDfkhi-NReFzW&ab_channel=Andr%C3%A9sWeitzel%5B.archivo%5D" target="_blank">
