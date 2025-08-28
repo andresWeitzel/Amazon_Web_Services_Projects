@@ -152,6 +152,20 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
+* [Microservicio estadísticas climáticas SMN](#microservicio-estadísticas-climáticas-smn-)
+
+   <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
+  </div>
+  
 * [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas--)
 
   <div align="left">
@@ -554,6 +568,54 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
   
 <!------FIN Microservice OpenWeather Nodejs Jest ------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------START Microservice SMN climate statistics ------>
+  
+<div align="center">
+
+### Microservicio estadísticas climáticas SMN [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS/blob/master/doc/assets/data.png" >
+  </a>
+
+  
+<div align="right">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
+</div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+
+<!------FIN Microservice SMN climate statistics ------>
 
 
 <br>
