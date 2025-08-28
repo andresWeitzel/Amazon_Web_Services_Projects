@@ -66,6 +66,21 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="30" height="30" src="../doc/assets/icons/devops/png/vsc.png" />
     <img width="23" height="23" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
+
+* [Microservicio para gestión de productos de mercado libre](#microservicio-para-gestión-de-productos-de-mercado-libre-)
+
+  <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
+  </div>
   
 * [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol--) 
 
@@ -257,6 +272,53 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 </div>
 
 <!------FIN MICROSERVICIO USUARIOS ML AWS------>
+
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ <!------MICROSERVICIO PRODUCTS ML AWS------>
+ 
+<div align="center">
+  
+### Microservicio para gestión de productos de Mercado Libre [🔝](#índice-)
+
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS/blob/master/doc/assets/img/Microservice_Mercadolibre_Products_AWS" >
+  </a>
+  <div align="right">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
+</div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAs3C8syrdYMZfQ0nUokcjz" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+
+<!------FIN MICROSERVICIO PRODUCTS ML AWS------>
 
   
 <br>
