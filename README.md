@@ -293,14 +293,14 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 <br>
 
- <!------MICROSERVICIO PRODUCTS ML AWS------>
+ <!------START MICROSERVICIO PRODUCTS ML AWS------>
  
 <div align="center">
   
 ### Microservice for mercado libre products [🔝](#index-)
 
   <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS/blob/master/doc/assets/img/Microservice_Mercadolibre_Products_AWS" >
+  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS/blob/master/doc/assets/img/Microservice_Mercadolibre_Products_AWS.png" >
   </a>
   <div align="right">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
