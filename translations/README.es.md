@@ -584,7 +584,7 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 ### Microservicio estadísticas climáticas SMN [🔝](#índice-)
     
   <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS/blob/master/doc/assets/data.png" >
+  <img src="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS/blob/master/doc/assets/img/data.png" >
   </a>
 
   
