@@ -67,21 +67,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="23" height="23" src="../doc/assets/icons/devops/png/docker.png" />
   </div>
 
-* [Microservicio para gestión de productos de mercado libre](#microservicio-para-gestión-de-productos-de-mercado-libre-)
-
-  <div align="left">
-    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
-  </div>
-  
 * [Api Rest para la gestión estadística de la producción y venta de bioetanol ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#api-rest-para-el-manejo-estadístico-de-producción-y-ventas-de-bioetanol--) 
 
   <div align="left">
@@ -97,22 +82,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="32" height="32" src="../doc/assets/icons/devops/png/vsc.png" />
   </div>
   
-* [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-planta-minera-) 
-
-   <div align="left">
-    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
-    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
-    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  </div>
-  
 * [Modelo CRUD para la gestión de objetos imagenes S3 ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#modelo-crud-para-la-gestión-de-objetos-imagenes-s3--)
 
   <div align="left">
@@ -126,20 +95,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
   
-* [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-gestionar-pagos-con-mercadopago-) 
-
-  <div align="left">
-    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
-  </div>
-  
 * [Microservicio OpenWeather ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#microservicio-openweather--) 
 
    <div align="left">
@@ -150,20 +105,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
     <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  </div>
-  
-* [Microservicio estadísticas climáticas SMN](#microservicio-estadísticas-climáticas-smn-)
-
-   <div align="left">
-    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
   </div>
   
 * [Servicio SQS de comunicación Lambdas ![(status-completed)](../doc/assets/icons/badges/status-completed.svg)](#servicio-sqs-de-comunicación-lambdas--)
@@ -190,6 +131,65 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
     <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
     <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
     <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  </div>
+
+* [Microservicio para gestión de productos de mercado libre](#microservicio-para-gestión-de-productos-de-mercado-libre-)
+
+  <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
+  </div>
+  
+* [Sistema de respaldo para planta minera](#sistema-de-respaldo-para-planta-minera-) 
+
+   <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
+    <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  </div>
+  
+* [Modelo CRUD para gestionar Pagos con MercadoPago](#modelo-crud-para-gestionar-pagos-con-mercadopago-) 
+
+  <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
+  </div>
+
+* [Microservicio estadísticas climáticas SMN](#microservicio-estadísticas-climáticas-smn-)
+
+   <div align="left">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
   </div>
 
 <br>
@@ -243,9 +243,15 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
 <!------Stop Index----->
   
- <br>
- 
- <br>
+<br>
+  
+<div align="center">
+    
+ ## 🗂️ Proyectos
+
+</div>
+
+<br>
 
  <!------START MICROSERVICIO USUARIOS ML AWS------>
  
@@ -295,54 +301,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 <br>
 
- <!------START MICROSERVICIO PRODUCTS ML AWS------>
- 
-<div align="center">
-  
-### Microservicio para gestión de productos de Mercado Libre [🔝](#índice-)
-
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS/blob/master/doc/assets/img/Microservice_Mercadolibre_Products_AWS.png" >
-  </a>
-  <div align="right">
-    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
-    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
-</div>
-
-<br>
-
- ### Detalles
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAs3C8syrdYMZfQ0nUokcjz" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
-  </a>
-</div>
-
-  
-
-<!------FIN MICROSERVICIO PRODUCTS ML AWS------>
-
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
  <!------START API_BIOETANOL_DYNAMO------>
  
 <div align="center">
@@ -387,57 +345,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 <br>
 <br>
-
-
- <!------BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
- 
-<div align="center">
-  
- ### Sistema de respaldo para planta minera. [🔝](#índice-)
- 
-  <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
-  </a>
-
-  <div align="right">
-  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-  <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
-  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
-  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
-  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-</div>
-
-<br>
-
-<br>
-
- ### Detalles
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
-  </a>
-</div>
-  
-<!------FIN BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
-
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
   
 <!------CRUD Amazon S3 AWS------>
   
@@ -484,53 +391,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 <br>
 <br>
   
-<!------CRUD Amazon DynamoDB AWS------>
-  
-<div align="center">
-  
- ### Modelo CRUD para gestionar Pagos con MercadoPago. [🔝](#índice-)
- 
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS/blob/master/doc/assets/CRUD_Amazon_DynamoDB_AWS.drawio.png" >
-  </a>
-
-
-<div align="right">
-  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-   <img width="27" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
-</div>
-
-<br>
-
- ### Detalles
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
-  </a>
-</div>
-  
-<!------FIN CRUD Amazon DynamoDB AWS------>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
 <!------Microservice OpenWeather Nodejs Jest ------>
   
 <div align="center">
@@ -568,55 +428,6 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 
   
 <!------FIN Microservice OpenWeather Nodejs Jest ------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!------START Microservice SMN climate statistics ------>
-  
-<div align="center">
-
-### Microservicio estadísticas climáticas SMN [🔝](#índice-)
-    
-  <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS/blob/master/doc/assets/img/data.png" >
-  </a>
-
-  
-<div align="right">
-    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
-    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
-    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
-</div>
-
-<br>
-
- ### Detalles
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
-  </a>
-  <a href="" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
-  </a>
-</div>
-
-  
-
-<!------FIN Microservice SMN climate statistics ------>
-
 
 <br>
 <br>
@@ -707,6 +518,192 @@ Repositorio central para proyectos que implementan tecnologías de Amazon Web Se
 </div>
   
 <!------FIN  CRUD_SNS_NodeJS_AWS------>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
+ 
+<div align="center">
+  
+ ### Sistema de respaldo para planta minera. [🔝](#índice-)
+ 
+  <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS/blob/master/doc/assets/SNS_SQS_DYNAMO_S3.drawio.png" >
+  </a>
+
+  <div align="right">
+  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="23" height="25" src="../doc/assets/icons/aws/png/sqs.png" />
+  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
+  <img width="25" height="25" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+</div>
+
+<br>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+  
+<!------FIN BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------START MICROSERVICIO PRODUCTS ML AWS------>
+ 
+<div align="center">
+  
+### Microservicio para gestión de productos de Mercado Libre [🔝](#índice-)
+
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS/blob/master/doc/assets/img/Microservice_Mercadolibre_Products_AWS.png" >
+  </a>
+  <div align="right">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/sequelize.png" />
+    <img width="25" height="27" src="../doc/assets/icons/aws/png/rds.png" />
+</div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Products_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAs3C8syrdYMZfQ0nUokcjz" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+
+<!------FIN MICROSERVICIO PRODUCTS ML AWS------>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------CRUD Amazon DynamoDB AWS------>
+  
+<div align="center">
+  
+ ### Modelo CRUD para gestionar Pagos con MercadoPago. [🔝](#índice-)
+ 
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS/blob/master/doc/assets/CRUD_Amazon_DynamoDB_AWS.drawio.png" >
+  </a>
+
+
+<div align="right">
+  <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+   <img width="27" height="27" src="../doc/assets/icons/aws/png/dynamo.png" />
+</div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+  
+<!------FIN CRUD Amazon DynamoDB AWS------>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------START Microservice SMN climate statistics ------>
+  
+<div align="center">
+
+### Microservicio estadísticas climáticas SMN [🔝](#índice-)
+    
+  <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS/blob/master/doc/assets/img/data.png" >
+  </a>
+
+  
+<div align="right">
+    <img width="25" height="25" src="../doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="../doc/assets/icons/devops/png/git.png" />
+    <img width="25" height="25" src="../doc/assets/icons/aws/png/s3.png" />
+    <img width="28" height="27" src="../doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="../doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="28" src="../doc/assets/icons/aws/png/dynamo.png" />
+</div>
+
+<br>
+
+ ### Detalles
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microservicio_EstadisticasClimaticas_SMN_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+
+<!------FIN Microservice SMN climate statistics ------>
 
 <br>
 <br>
