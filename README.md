@@ -143,7 +143,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
   </div>
   
-* [Microservice OpenWeather](#microservice-openweather-)
+* [Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#microservice-openweather-)
 
    <div align="left">
     <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
@@ -545,7 +545,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
   
 <div align="center">
 
-### Microservice OpenWeather. [🔝](#index-)
+### Microservice OpenWeather ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
     
   <a href="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS/blob/master/doc/assets/img/open-weather.jpg" >
