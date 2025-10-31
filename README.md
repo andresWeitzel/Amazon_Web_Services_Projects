@@ -135,6 +135,21 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
   </div>
 
+* [Payments MP DynamoDB ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#payments-mp-dynamodb--)
+
+  <div align="left">
+    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+  </div>
+
+
 * [Microservice for mercado libre products ](#microservice-for-mercado-libre-products-)
 
   <div align="left">
@@ -166,19 +181,6 @@ Central repository for projects and tutorials that implement Amazon Web Services
     <img width="25" height="25" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
   </div>
   
-* [Mercadopago payment objects CRUD](#mercadopago-payment-objects-crud-)
-
-  <div align="left">
-    <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-    <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-    <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-    <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-    <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-    <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-    <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
-  </div>
 
 * [Microservice SMN climate statistics](#microservice-smn-climate-statistics-)
 
@@ -529,6 +531,51 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 <br>
 <br>
+  
+<!------START Payments MP DynamoDB AWS------>
+  
+<div align="center">
+
+### Payments MP DynamoDB ![(status-completed)](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+    
+  <a href="https://github.com/andresWeitzel/Payments_MP_Dynamo_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Payments_MP_Dynamo_AWS/blob/master/doc/assets/img/CRUD_Amazon_DynamoDB_AWS.drawio.png" >
+  </a> 
+
+<div align="right">
+  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
+  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
+  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
+  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+  <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
+</div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Payments_MP_Dynamo_AWS" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+  
+<!------END Payments MP DynamoDB AWS------>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!------START MICROSERVICIO PRODUCTS ML AWS------>
  
@@ -616,50 +663,7 @@ Central repository for projects and tutorials that implement Amazon Web Services
 
 <!------FIN BackupSystem_SQS_SNS_S3_DynamoDB_AWS ------>
   
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-<!------CRUD Amazon DynamoDB AWS------>
-  
-<div align="center">
 
-### Mercadopago payment objects CRUD. [🔝](#index-)
-    
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
-  <img src="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS/blob/master/doc/assets/CRUD_Amazon_DynamoDB_AWS.drawio.png" >
-  </a> 
-
-<div align="right">
-  <img width="25" height="25" src="./doc/assets/icons/devops/png/aws.png" />
-  <img width="25" height="25" src="./doc/assets/icons/aws/png/lambda.png" />
-  <img width="27" height="27" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="29" height="27" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="28" height="27" src="./doc/assets/icons/aws/png/api-gateway.png" />
-  <img width="27" height="25" src="./doc/assets/icons/aws/png/parameter-store.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="27" height="27" src="./doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="27" height="27" src="./doc/assets/icons/aws/png/dynamo.png" />
-</div>
-
-<br>
-
- ### Details
-
-<div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
-    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-network/github.gif" style="display: inline-block;" />
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W" target="_blank">
-    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-network/youtube.gif" style="display: inline-block;" />
-  </a>
-</div>
-
-  
-<!------FIN CRUD Amazon DynamoDB AWS------>
 
 
 
@@ -673,6 +677,8 @@ Central repository for projects and tutorials that implement Amazon Web Services
 <br>
 <br>
 <br>
+
+
   
 <div align="center">
     
